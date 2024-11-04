@@ -1,0 +1,30 @@
+{
+  "name": "New City Roleplay",
+  "description": "New City Roleplay, an SA-MP (San Andreas Multiplayer) roleplaying server, was launched in 2020 by its founders, Rjryt and Boss. It stands out as an innovative server, featuring new and unique gameplay elements that distinguish it from traditional SA-MP servers. The server incorporates features commonly found in FiveM roleplay servers, providing a fresh and immersive experience for players. From advanced roleplaying mechanics to dynamic events, New City Roleplay brings a new level of engagement to the SA-MP community.",
+  "createdAt": "November 1, 2020 (4 years ago)",
+  "owners": 
+  [
+    {
+      "name": "Robin J R",
+      "username": "RJRYT",
+      "github": "https://github.com/rjryt",
+      "website": "https://rjryt.github.io",
+      "instagram": "https://www.instagram.com/rjryt_"
+    },
+    {
+      "name": "Sreevisakh V S",
+      "username": "BOSS",
+      "github": "https://github.com/cruz-gaming",
+      "website": "https://cruzgaming.bio.link",
+      "instagram": "https://www.instagram.com/ns_craze_boy/"
+    }
+  ],
+  "serverVersion": "V6.05.2",
+  "links": 
+  {
+    "discord": "https://discord.gg/ncrp-new-city-roleplay-772386831433859112",
+    "instagram": "https://instagram.com/new_city_roleplay_2021",
+    "whatsapp": "https://chat.whatsapp.com/Lf6vmQ4bkc14GINccXoB9k",
+    "youtube": "https://www.youtube.com/@NEWCITYROLEPLAY2020"
+  },
+}
