@@ -1,0 +1,37 @@
+{
+  "query":
+  [
+    {
+      "name":"New City RolePlay",
+      "ip":"172.232.124.96",
+      "port":5236,
+      "online":2,
+      "maxplayers":100,
+      "password":false
+    },
+    {
+      "name":"New City RolePlay v1",
+      "ip":"172.232.124.97",
+      "port":5236,
+      "online":2,
+      "maxplayers":100,
+      "password":false
+    },
+    {
+      "name":"New City RolePlay v3",
+      "ip":"172.232.124.97",
+      "port":5336,
+      "online":200,
+      "maxplayers":1000,
+      "password":true
+    },
+    {
+      "name":"New City RolePlay v5",
+      "ip":"172.231.124.97",
+      "port":5236,
+      "online":20,
+      "maxplayers":200,
+      "password":false
+    }
+  ]
+}
