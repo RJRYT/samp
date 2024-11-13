@@ -18,20 +18,28 @@
       "password":false
     },
     {
-      "name":"New City RolePlay v3",
-      "ip":"172.232.124.97",
-      "port":5336,
-      "online":200,
+      "name":"NCRP Freerom",
+      "ip":"play.ncrp.com",
+      "port":7777,
+      "online":20,
       "maxplayers":1000,
       "password":true
     },
     {
-      "name":"New City RolePlay v5",
+      "name":"TDM | Cruz gaming",
       "ip":"172.231.124.97",
-      "port":5236,
-      "online":20,
-      "maxplayers":200,
+      "port":7878,
+      "online":25,
+      "maxplayers":500,
       "password":false
+    },
+    {
+      "name":"RJRYT Custom server",
+      "ip":"play.rjryt.me",
+      "port":7777,
+      "online":199,
+      "maxplayers":200,
+      "password":true
     }
   ]
 }
