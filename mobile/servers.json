@@ -10,49 +10,73 @@
       "password":false
     },
     {
-      "name":"New City RolePlay v1",
-      "ip":"play.nexalroleplay.tech",
+      "name":"Arizona Role Play | Mesa",
+      "ip":"185.169.134.59",
       "port":7777,
       "online":2,
       "maxplayers":100,
       "password":false
     },
     {
-      "name":"NCRP Freerom",
-      "ip":"samp.mallucity.live",
-      "port":7779,
+      "name":"Arizona Role Play | Tucson",
+      "ip":"185.169.134.4",
+      "port":7777,
       "online":20,
       "maxplayers":1000,
-      "password":true
+      "password":false
     },
     {
-      "name":"TDM | Cruz gaming",
-      "ip":"143.110.176.246",
-      "port":6050,
+      "name":"Arizona Role Play | Red-Rock",
+      "ip":"185.169.134.61",
+      "port":7777,
       "online":25,
       "maxplayers":500,
       "password":false
     },
     {
-      "name":"RJRYT Custom server",
-      "ip":"51.79.162.218",
-      "port":7788,
-      "online":199,
-      "maxplayers":200,
-      "password":true
-    },
-    {
-      "name":"RJRYT Custom server",
-      "ip":"samp.mallucity.live",
+      "name":"Los Santos Roleplay Cops and Robbers [11.0.9]",
+      "ip":"37.187.77.206",
       "port":7777,
       "online":199,
       "maxplayers":200,
       "password":true
     },
     {
-      "name":"RJRYT Custom server",
+      "name":"Lawless Roleplay",
+      "ip":"217.182.36.95",
+      "port":7777,
+      "online":199,
+      "maxplayers":200,
+      "password":true
+    },
+    {
+      "name":"UIF",
       "ip":"play.uifserver.net",
       "port":7776,
+      "online":199,
+      "maxplayers":200,
+      "password":true
+    },
+    {
+      "name":"Monser DM | Server 02",
+      "ip":"two.monser.ru",
+      "port":7777,
+      "online":199,
+      "maxplayers":200,
+      "password":true
+    },
+    {
+      "name":"Greek Roleplay Server (Season 2)",
+      "ip":"rpg.greeksamp.info",
+      "port":7777,
+      "online":199,
+      "maxplayers":200,
+      "password":true
+    },
+    {
+      "name":"GRAND COUNTRY-RP",
+      "ip":"204.10.193.119",
+      "port":7777,
       "online":199,
       "maxplayers":200,
       "password":true
