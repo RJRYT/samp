@@ -1,3 +1,3 @@
 # samp
 Samp launcher
-The NCRP SAMP Launcher Data Server
+- The NCRP SAMP Launcher Data Server
