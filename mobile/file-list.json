@@ -1765,20 +1765,6 @@
       "gpu": "all"
     },
     {
-      "name": "settings.ini",
-      "path": "SAMP/settings.ini",
-      "url": "https://newcityrp.co.in/files/SAMP/settings.ini",
-      "size": 398,
-      "gpu": "all"
-    },
-    {
-      "name": "svlog.txt",
-      "path": "SAMP/svlog.txt",
-      "url": "https://newcityrp.co.in/files/SAMP/svlog.txt",
-      "size": 479,
-      "gpu": "all"
-    },
-    {
       "name": "TIMECYC.DAT",
       "path": "SAMP/TIMECYC.DAT",
       "url": "https://newcityrp.co.in/files/SAMP/TIMECYC.DAT",
