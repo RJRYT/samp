@@ -1,13 +1,6 @@
 {
   "files": [
     {
-      "name": ".htaccess",
-      "path": ".htaccess",
-      "url": "https://newcityrp.co.in/files/.htaccess",
-      "size": 17,
-      "gpu": "all"
-    },
-    {
       "name": "CINFO.BIN",
       "path": "CINFO.BIN",
       "url": "https://newcityrp.co.in/files/CINFO.BIN",
