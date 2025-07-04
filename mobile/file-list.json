@@ -3,2478 +3,2478 @@
     {
       "name": ".htaccess",
       "path": ".htaccess",
-      "url": "http://newcityrp.co.in/files/.htaccess",
+      "url": "https://newcityrp.co.in/files/.htaccess",
       "size": 17,
       "gpu": "all"
     },
     {
       "name": "CINFO.BIN",
       "path": "CINFO.BIN",
-      "url": "http://newcityrp.co.in/files/CINFO.BIN",
+      "url": "https://newcityrp.co.in/files/CINFO.BIN",
       "size": 634084,
       "gpu": "all"
     },
     {
       "name": "gtasatelem.set",
       "path": "gtasatelem.set",
-      "url": "http://newcityrp.co.in/files/gtasatelem.set",
+      "url": "https://newcityrp.co.in/files/gtasatelem.set",
       "size": 392,
       "gpu": "all"
     },
     {
       "name": "stream.ini",
       "path": "stream.ini",
-      "url": "http://newcityrp.co.in/files/stream.ini",
+      "url": "https://newcityrp.co.in/files/stream.ini",
       "size": 197,
       "gpu": "all"
     },
     {
       "name": "anim.img",
       "path": "anim/anim.img",
-      "url": "http://newcityrp.co.in/files/anim/anim.img",
+      "url": "https://newcityrp.co.in/files/anim/anim.img",
       "size": 10942464,
       "gpu": "all"
     },
     {
       "name": "cuts.img",
       "path": "anim/cuts.img",
-      "url": "http://newcityrp.co.in/files/anim/cuts.img",
+      "url": "https://newcityrp.co.in/files/anim/cuts.img",
       "size": 16029696,
       "gpu": "all"
     },
     {
       "name": "ped.ifp",
       "path": "anim/ped.ifp",
-      "url": "http://newcityrp.co.in/files/anim/ped.ifp",
+      "url": "https://newcityrp.co.in/files/anim/ped.ifp",
       "size": 1433248,
       "gpu": "all"
     },
     {
       "name": "AudioEventHistory.txt",
       "path": "audio/CONFIG/AudioEventHistory.txt",
-      "url": "http://newcityrp.co.in/files/audio/CONFIG/AudioEventHistory.txt",
+      "url": "https://newcityrp.co.in/files/audio/CONFIG/AudioEventHistory.txt",
       "size": 114056,
       "gpu": "all"
     },
     {
       "name": "BankLkup.dat",
       "path": "audio/CONFIG/BankLkup.dat",
-      "url": "http://newcityrp.co.in/files/audio/CONFIG/BankLkup.dat",
+      "url": "https://newcityrp.co.in/files/audio/CONFIG/BankLkup.dat",
       "size": 8520,
       "gpu": "all"
     },
     {
       "name": "BankSlot.dat",
       "path": "audio/CONFIG/BankSlot.dat",
-      "url": "http://newcityrp.co.in/files/audio/CONFIG/BankSlot.dat",
+      "url": "https://newcityrp.co.in/files/audio/CONFIG/BankSlot.dat",
       "size": 216902,
       "gpu": "all"
     },
     {
       "name": "EventVol.dat",
       "path": "audio/CONFIG/EventVol.dat",
-      "url": "http://newcityrp.co.in/files/audio/CONFIG/EventVol.dat",
+      "url": "https://newcityrp.co.in/files/audio/CONFIG/EventVol.dat",
       "size": 45402,
       "gpu": "all"
     },
     {
       "name": "PakFiles.dat",
       "path": "audio/CONFIG/PakFiles.dat",
-      "url": "http://newcityrp.co.in/files/audio/CONFIG/PakFiles.dat",
+      "url": "https://newcityrp.co.in/files/audio/CONFIG/PakFiles.dat",
       "size": 468,
       "gpu": "all"
     },
     {
       "name": "SOUNDINF.DAT",
       "path": "audio/CONFIG/SOUNDINF.DAT",
-      "url": "http://newcityrp.co.in/files/audio/CONFIG/SOUNDINF.DAT",
+      "url": "https://newcityrp.co.in/files/audio/CONFIG/SOUNDINF.DAT",
       "size": 746760,
       "gpu": "all"
     },
     {
       "name": "StrmPaks.dat",
       "path": "audio/CONFIG/StrmPaks.dat",
-      "url": "http://newcityrp.co.in/files/audio/CONFIG/StrmPaks.dat",
+      "url": "https://newcityrp.co.in/files/audio/CONFIG/StrmPaks.dat",
       "size": 272,
       "gpu": "all"
     },
     {
       "name": "TrakLkup.dat",
       "path": "audio/CONFIG/TrakLkup.dat",
-      "url": "http://newcityrp.co.in/files/audio/CONFIG/TrakLkup.dat",
+      "url": "https://newcityrp.co.in/files/audio/CONFIG/TrakLkup.dat",
       "size": 23064,
       "gpu": "all"
     },
     {
       "name": "TRKHEAD.DAT",
       "path": "audio/CONFIG/TRKHEAD.DAT",
-      "url": "http://newcityrp.co.in/files/audio/CONFIG/TRKHEAD.DAT",
+      "url": "https://newcityrp.co.in/files/audio/CONFIG/TRKHEAD.DAT",
       "size": 15506696,
       "gpu": "all"
     },
     {
       "name": "FEET.osw",
       "path": "audio/SFX/FEET.osw",
-      "url": "http://newcityrp.co.in/files/audio/SFX/FEET.osw",
+      "url": "https://newcityrp.co.in/files/audio/SFX/FEET.osw",
       "size": 138118,
       "gpu": "all"
     },
     {
       "name": "FEET.osw.idx",
       "path": "audio/SFX/FEET.osw.idx",
-      "url": "http://newcityrp.co.in/files/audio/SFX/FEET.osw.idx",
+      "url": "https://newcityrp.co.in/files/audio/SFX/FEET.osw.idx",
       "size": 1220,
       "gpu": "all"
     },
     {
       "name": "GENRL.osw",
       "path": "audio/SFX/GENRL.osw",
-      "url": "http://newcityrp.co.in/files/audio/SFX/GENRL.osw",
+      "url": "https://newcityrp.co.in/files/audio/SFX/GENRL.osw",
       "size": 9362373,
       "gpu": "all"
     },
     {
       "name": "GENRL.osw.idx",
       "path": "audio/SFX/GENRL.osw.idx",
-      "url": "http://newcityrp.co.in/files/audio/SFX/GENRL.osw.idx",
+      "url": "https://newcityrp.co.in/files/audio/SFX/GENRL.osw.idx",
       "size": 20868,
       "gpu": "all"
     },
     {
       "name": "PAIN_A.osw",
       "path": "audio/SFX/PAIN_A.osw",
-      "url": "http://newcityrp.co.in/files/audio/SFX/PAIN_A.osw",
+      "url": "https://newcityrp.co.in/files/audio/SFX/PAIN_A.osw",
       "size": 3247335,
       "gpu": "all"
     },
     {
       "name": "PAIN_A.osw.idx",
       "path": "audio/SFX/PAIN_A.osw.idx",
-      "url": "http://newcityrp.co.in/files/audio/SFX/PAIN_A.osw.idx",
+      "url": "https://newcityrp.co.in/files/audio/SFX/PAIN_A.osw.idx",
       "size": 12836,
       "gpu": "all"
     },
     {
       "name": "AA.osw",
       "path": "audio/STREAMS/AA.osw",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/AA.osw",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/AA.osw",
       "size": 15462,
       "gpu": "all"
     },
     {
       "name": "AA.osw.idx",
       "path": "audio/STREAMS/AA.osw.idx",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/AA.osw.idx",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/AA.osw.idx",
       "size": 1522,
       "gpu": "all"
     },
     {
       "name": "ADVERTS.osw",
       "path": "audio/STREAMS/ADVERTS.osw",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/ADVERTS.osw",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/ADVERTS.osw",
       "size": 3516982,
       "gpu": "all"
     },
     {
       "name": "ADVERTS.osw.idx",
       "path": "audio/STREAMS/ADVERTS.osw.idx",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/ADVERTS.osw.idx",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/ADVERTS.osw.idx",
       "size": 1591,
       "gpu": "all"
     },
     {
       "name": "AMBIENCE.osw",
       "path": "audio/STREAMS/AMBIENCE.osw",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/AMBIENCE.osw",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/AMBIENCE.osw",
       "size": 22719112,
       "gpu": "all"
     },
     {
       "name": "AMBIENCE.osw.idx",
       "path": "audio/STREAMS/AMBIENCE.osw.idx",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/AMBIENCE.osw.idx",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/AMBIENCE.osw.idx",
       "size": 924,
       "gpu": "all"
     },
     {
       "name": "BEATS.osw",
       "path": "audio/STREAMS/BEATS.osw",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/BEATS.osw",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/BEATS.osw",
       "size": 9415375,
       "gpu": "all"
     },
     {
       "name": "BEATS.osw.idx",
       "path": "audio/STREAMS/BEATS.osw.idx",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/BEATS.osw.idx",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/BEATS.osw.idx",
       "size": 234,
       "gpu": "all"
     },
     {
       "name": "CH.osw",
       "path": "audio/STREAMS/CH.osw",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/CH.osw",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/CH.osw",
       "size": 15462,
       "gpu": "all"
     },
     {
       "name": "CH.osw.idx",
       "path": "audio/STREAMS/CH.osw.idx",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/CH.osw.idx",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/CH.osw.idx",
       "size": 2994,
       "gpu": "all"
     },
     {
       "name": "CO.osw",
       "path": "audio/STREAMS/CO.osw",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/CO.osw",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/CO.osw",
       "size": 15462,
       "gpu": "all"
     },
     {
       "name": "CO.osw.idx",
       "path": "audio/STREAMS/CO.osw.idx",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/CO.osw.idx",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/CO.osw.idx",
       "size": 3569,
       "gpu": "all"
     },
     {
       "name": "CR.osw",
       "path": "audio/STREAMS/CR.osw",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/CR.osw",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/CR.osw",
       "size": 15462,
       "gpu": "all"
     },
     {
       "name": "CR.osw.idx",
       "path": "audio/STREAMS/CR.osw.idx",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/CR.osw.idx",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/CR.osw.idx",
       "size": 3592,
       "gpu": "all"
     },
     {
       "name": "CUTSCENE.osw",
       "path": "audio/STREAMS/CUTSCENE.osw",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/CUTSCENE.osw",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/CUTSCENE.osw",
       "size": 301175,
       "gpu": "all"
     },
     {
       "name": "CUTSCENE.osw.idx",
       "path": "audio/STREAMS/CUTSCENE.osw.idx",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/CUTSCENE.osw.idx",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/CUTSCENE.osw.idx",
       "size": 3247,
       "gpu": "all"
     },
     {
       "name": "DS.osw",
       "path": "audio/STREAMS/DS.osw",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/DS.osw",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/DS.osw",
       "size": 15462,
       "gpu": "all"
     },
     {
       "name": "DS.osw.idx",
       "path": "audio/STREAMS/DS.osw.idx",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/DS.osw.idx",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/DS.osw.idx",
       "size": 4121,
       "gpu": "all"
     },
     {
       "name": "HC.osw",
       "path": "audio/STREAMS/HC.osw",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/HC.osw",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/HC.osw",
       "size": 15462,
       "gpu": "all"
     },
     {
       "name": "HC.osw.idx",
       "path": "audio/STREAMS/HC.osw.idx",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/HC.osw.idx",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/HC.osw.idx",
       "size": 2649,
       "gpu": "all"
     },
     {
       "name": "MH.osw",
       "path": "audio/STREAMS/MH.osw",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/MH.osw",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/MH.osw",
       "size": 15462,
       "gpu": "all"
     },
     {
       "name": "MH.osw.idx",
       "path": "audio/STREAMS/MH.osw.idx",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/MH.osw.idx",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/MH.osw.idx",
       "size": 3500,
       "gpu": "all"
     },
     {
       "name": "MR.osw",
       "path": "audio/STREAMS/MR.osw",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/MR.osw",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/MR.osw",
       "size": 15462,
       "gpu": "all"
     },
     {
       "name": "MR.osw.idx",
       "path": "audio/STREAMS/MR.osw.idx",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/MR.osw.idx",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/MR.osw.idx",
       "size": 3385,
       "gpu": "all"
     },
     {
       "name": "NJ.osw",
       "path": "audio/STREAMS/NJ.osw",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/NJ.osw",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/NJ.osw",
       "size": 15462,
       "gpu": "all"
     },
     {
       "name": "NJ.osw.idx",
       "path": "audio/STREAMS/NJ.osw.idx",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/NJ.osw.idx",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/NJ.osw.idx",
       "size": 2994,
       "gpu": "all"
     },
     {
       "name": "RE.osw",
       "path": "audio/STREAMS/RE.osw",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/RE.osw",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/RE.osw",
       "size": 15462,
       "gpu": "all"
     },
     {
       "name": "RE.osw.idx",
       "path": "audio/STREAMS/RE.osw.idx",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/RE.osw.idx",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/RE.osw.idx",
       "size": 3707,
       "gpu": "all"
     },
     {
       "name": "RG.osw",
       "path": "audio/STREAMS/RG.osw",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/RG.osw",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/RG.osw",
       "size": 15462,
       "gpu": "all"
     },
     {
       "name": "RG.osw.idx",
       "path": "audio/STREAMS/RG.osw.idx",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/RG.osw.idx",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/RG.osw.idx",
       "size": 3914,
       "gpu": "all"
     },
     {
       "name": "TK.osw",
       "path": "audio/STREAMS/TK.osw",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/TK.osw",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/TK.osw",
       "size": 15462,
       "gpu": "all"
     },
     {
       "name": "TK.osw.idx",
       "path": "audio/STREAMS/TK.osw.idx",
-      "url": "http://newcityrp.co.in/files/audio/STREAMS/TK.osw.idx",
+      "url": "https://newcityrp.co.in/files/audio/STREAMS/TK.osw.idx",
       "size": 2327,
       "gpu": "all"
     },
     {
       "name": "360Default1280x720.cfg",
       "path": "data/360Default1280x720.cfg",
-      "url": "http://newcityrp.co.in/files/data/360Default1280x720.cfg",
+      "url": "https://newcityrp.co.in/files/data/360Default1280x720.cfg",
       "size": 10898,
       "gpu": "all"
     },
     {
       "name": "360Default960x720.cfg",
       "path": "data/360Default960x720.cfg",
-      "url": "http://newcityrp.co.in/files/data/360Default960x720.cfg",
+      "url": "https://newcityrp.co.in/files/data/360Default960x720.cfg",
       "size": 10888,
       "gpu": "all"
     },
     {
       "name": "animgrp.dat",
       "path": "data/animgrp.dat",
-      "url": "http://newcityrp.co.in/files/data/animgrp.dat",
+      "url": "https://newcityrp.co.in/files/data/animgrp.dat",
       "size": 3096,
       "gpu": "all"
     },
     {
       "name": "ar_stats.dat",
       "path": "data/ar_stats.dat",
-      "url": "http://newcityrp.co.in/files/data/ar_stats.dat",
+      "url": "https://newcityrp.co.in/files/data/ar_stats.dat",
       "size": 3593,
       "gpu": "all"
     },
     {
       "name": "carcols.dat",
       "path": "data/carcols.dat",
-      "url": "http://newcityrp.co.in/files/data/carcols.dat",
+      "url": "https://newcityrp.co.in/files/data/carcols.dat",
       "size": 15361,
       "gpu": "all"
     },
     {
       "name": "cargrp.dat",
       "path": "data/cargrp.dat",
-      "url": "http://newcityrp.co.in/files/data/cargrp.dat",
+      "url": "https://newcityrp.co.in/files/data/cargrp.dat",
       "size": 3909,
       "gpu": "all"
     },
     {
       "name": "carmods.dat",
       "path": "data/carmods.dat",
-      "url": "http://newcityrp.co.in/files/data/carmods.dat",
+      "url": "https://newcityrp.co.in/files/data/carmods.dat",
       "size": 8763,
       "gpu": "all"
     },
     {
       "name": "clothes.dat",
       "path": "data/clothes.dat",
-      "url": "http://newcityrp.co.in/files/data/clothes.dat",
+      "url": "https://newcityrp.co.in/files/data/clothes.dat",
       "size": 5317,
       "gpu": "all"
     },
     {
       "name": "colorcycle.dat",
       "path": "data/colorcycle.dat",
-      "url": "http://newcityrp.co.in/files/data/colorcycle.dat",
+      "url": "https://newcityrp.co.in/files/data/colorcycle.dat",
       "size": 13612,
       "gpu": "all"
     },
     {
       "name": "default.dat",
       "path": "data/default.dat",
-      "url": "http://newcityrp.co.in/files/data/default.dat",
+      "url": "https://newcityrp.co.in/files/data/default.dat",
       "size": 577,
       "gpu": "all"
     },
     {
       "name": "default.ide",
       "path": "data/default.ide",
-      "url": "http://newcityrp.co.in/files/data/default.ide",
+      "url": "https://newcityrp.co.in/files/data/default.ide",
       "size": 4679,
       "gpu": "all"
     },
     {
       "name": "fonts.dat",
       "path": "data/fonts.dat",
-      "url": "http://newcityrp.co.in/files/data/fonts.dat",
+      "url": "https://newcityrp.co.in/files/data/fonts.dat",
       "size": 3576,
       "gpu": "all"
     },
     {
       "name": "furnitur.dat",
       "path": "data/furnitur.dat",
-      "url": "http://newcityrp.co.in/files/data/furnitur.dat",
+      "url": "https://newcityrp.co.in/files/data/furnitur.dat",
       "size": 16480,
       "gpu": "all"
     },
     {
       "name": "gridref.dat",
       "path": "data/gridref.dat",
-      "url": "http://newcityrp.co.in/files/data/gridref.dat",
+      "url": "https://newcityrp.co.in/files/data/gridref.dat",
       "size": 1498,
       "gpu": "all"
     },
     {
       "name": "gta.dat",
       "path": "data/gta.dat",
-      "url": "http://newcityrp.co.in/files/data/gta.dat",
+      "url": "https://newcityrp.co.in/files/data/gta.dat",
       "size": 3776,
       "gpu": "all"
     },
     {
       "name": "handling.cfg",
       "path": "data/handling.cfg",
-      "url": "http://newcityrp.co.in/files/data/handling.cfg",
+      "url": "https://newcityrp.co.in/files/data/handling.cfg",
       "size": 64532,
       "gpu": "all"
     },
     {
       "name": "info.zon",
       "path": "data/info.zon",
-      "url": "http://newcityrp.co.in/files/data/info.zon",
+      "url": "https://newcityrp.co.in/files/data/info.zon",
       "size": 28139,
       "gpu": "all"
     },
     {
       "name": "map.zon",
       "path": "data/map.zon",
-      "url": "http://newcityrp.co.in/files/data/map.zon",
+      "url": "https://newcityrp.co.in/files/data/map.zon",
       "size": 436,
       "gpu": "all"
     },
     {
       "name": "melee.dat",
       "path": "data/melee.dat",
-      "url": "http://newcityrp.co.in/files/data/melee.dat",
+      "url": "https://newcityrp.co.in/files/data/melee.dat",
       "size": 6306,
       "gpu": "all"
     },
     {
       "name": "object.dat",
       "path": "data/object.dat",
-      "url": "http://newcityrp.co.in/files/data/object.dat",
+      "url": "https://newcityrp.co.in/files/data/object.dat",
       "size": 126118,
       "gpu": "all"
     },
     {
       "name": "ped.dat",
       "path": "data/ped.dat",
-      "url": "http://newcityrp.co.in/files/data/ped.dat",
+      "url": "https://newcityrp.co.in/files/data/ped.dat",
       "size": 1276,
       "gpu": "all"
     },
     {
       "name": "pedgrp.dat",
       "path": "data/pedgrp.dat",
-      "url": "http://newcityrp.co.in/files/data/pedgrp.dat",
+      "url": "https://newcityrp.co.in/files/data/pedgrp.dat",
       "size": 5792,
       "gpu": "all"
     },
     {
       "name": "peds.ide",
       "path": "data/peds.ide",
-      "url": "http://newcityrp.co.in/files/data/peds.ide",
+      "url": "https://newcityrp.co.in/files/data/peds.ide",
       "size": 33401,
       "gpu": "all"
     },
     {
       "name": "pedstats.dat",
       "path": "data/pedstats.dat",
-      "url": "http://newcityrp.co.in/files/data/pedstats.dat",
+      "url": "https://newcityrp.co.in/files/data/pedstats.dat",
       "size": 3604,
       "gpu": "all"
     },
     {
       "name": "plants.dat",
       "path": "data/plants.dat",
-      "url": "http://newcityrp.co.in/files/data/plants.dat",
+      "url": "https://newcityrp.co.in/files/data/plants.dat",
       "size": 9887,
       "gpu": "all"
     },
     {
       "name": "popcycle.dat",
       "path": "data/popcycle.dat",
-      "url": "http://newcityrp.co.in/files/data/popcycle.dat",
+      "url": "https://newcityrp.co.in/files/data/popcycle.dat",
       "size": 127108,
       "gpu": "all"
     },
     {
       "name": "procobj.dat",
       "path": "data/procobj.dat",
-      "url": "http://newcityrp.co.in/files/data/procobj.dat",
+      "url": "https://newcityrp.co.in/files/data/procobj.dat",
       "size": 10019,
       "gpu": "all"
     },
     {
       "name": "shopping.dat",
       "path": "data/shopping.dat",
-      "url": "http://newcityrp.co.in/files/data/shopping.dat",
+      "url": "https://newcityrp.co.in/files/data/shopping.dat",
       "size": 46875,
       "gpu": "all"
     },
     {
       "name": "ShopUVs.dat",
       "path": "data/ShopUVs.dat",
-      "url": "http://newcityrp.co.in/files/data/ShopUVs.dat",
+      "url": "https://newcityrp.co.in/files/data/ShopUVs.dat",
       "size": 30509,
       "gpu": "all"
     },
     {
       "name": "statdisp.dat",
       "path": "data/statdisp.dat",
-      "url": "http://newcityrp.co.in/files/data/statdisp.dat",
+      "url": "https://newcityrp.co.in/files/data/statdisp.dat",
       "size": 7292,
       "gpu": "all"
     },
     {
       "name": "surface.dat",
       "path": "data/surface.dat",
-      "url": "http://newcityrp.co.in/files/data/surface.dat",
+      "url": "https://newcityrp.co.in/files/data/surface.dat",
       "size": 576,
       "gpu": "all"
     },
     {
       "name": "surfaud.dat",
       "path": "data/surfaud.dat",
-      "url": "http://newcityrp.co.in/files/data/surfaud.dat",
+      "url": "https://newcityrp.co.in/files/data/surfaud.dat",
       "size": 6530,
       "gpu": "all"
     },
     {
       "name": "surfinfo.dat",
       "path": "data/surfinfo.dat",
-      "url": "http://newcityrp.co.in/files/data/surfinfo.dat",
+      "url": "https://newcityrp.co.in/files/data/surfinfo.dat",
       "size": 28106,
       "gpu": "all"
     },
     {
       "name": "timecyc.dat",
       "path": "data/timecyc.dat",
-      "url": "http://newcityrp.co.in/files/data/timecyc.dat",
+      "url": "https://newcityrp.co.in/files/data/timecyc.dat",
       "size": 40037,
       "gpu": "all"
     },
     {
       "name": "TouchDefaultPhone3x2.cfg",
       "path": "data/TouchDefaultPhone3x2.cfg",
-      "url": "http://newcityrp.co.in/files/data/TouchDefaultPhone3x2.cfg",
+      "url": "https://newcityrp.co.in/files/data/TouchDefaultPhone3x2.cfg",
       "size": 10912,
       "gpu": "all"
     },
     {
       "name": "TouchDefaultPhoneWidescreen.cfg",
       "path": "data/TouchDefaultPhoneWidescreen.cfg",
-      "url": "http://newcityrp.co.in/files/data/TouchDefaultPhoneWidescreen.cfg",
+      "url": "https://newcityrp.co.in/files/data/TouchDefaultPhoneWidescreen.cfg",
       "size": 10924,
       "gpu": "all"
     },
     {
       "name": "TouchDefaultTablet4x3.cfg",
       "path": "data/TouchDefaultTablet4x3.cfg",
-      "url": "http://newcityrp.co.in/files/data/TouchDefaultTablet4x3.cfg",
+      "url": "https://newcityrp.co.in/files/data/TouchDefaultTablet4x3.cfg",
       "size": 10926,
       "gpu": "all"
     },
     {
       "name": "TouchDefaultTabletWidescreen.cfg",
       "path": "data/TouchDefaultTabletWidescreen.cfg",
-      "url": "http://newcityrp.co.in/files/data/TouchDefaultTabletWidescreen.cfg",
+      "url": "https://newcityrp.co.in/files/data/TouchDefaultTabletWidescreen.cfg",
       "size": 10923,
       "gpu": "all"
     },
     {
       "name": "txdcut.ide",
       "path": "data/txdcut.ide",
-      "url": "http://newcityrp.co.in/files/data/txdcut.ide",
+      "url": "https://newcityrp.co.in/files/data/txdcut.ide",
       "size": 478,
       "gpu": "all"
     },
     {
       "name": "vehicles.ide",
       "path": "data/vehicles.ide",
-      "url": "http://newcityrp.co.in/files/data/vehicles.ide",
+      "url": "https://newcityrp.co.in/files/data/vehicles.ide",
       "size": 21093,
       "gpu": "all"
     },
     {
       "name": "water.dat",
       "path": "data/water.dat",
-      "url": "http://newcityrp.co.in/files/data/water.dat",
+      "url": "https://newcityrp.co.in/files/data/water.dat",
       "size": 70099,
       "gpu": "all"
     },
     {
       "name": "water1.dat",
       "path": "data/water1.dat",
-      "url": "http://newcityrp.co.in/files/data/water1.dat",
+      "url": "https://newcityrp.co.in/files/data/water1.dat",
       "size": 60063,
       "gpu": "all"
     },
     {
       "name": "weapon.dat",
       "path": "data/weapon.dat",
-      "url": "http://newcityrp.co.in/files/data/weapon.dat",
+      "url": "https://newcityrp.co.in/files/data/weapon.dat",
       "size": 11602,
       "gpu": "all"
     },
     {
       "name": "PedEvent.txt",
       "path": "data/Decision/PedEvent.txt",
-      "url": "http://newcityrp.co.in/files/data/Decision/PedEvent.txt",
+      "url": "https://newcityrp.co.in/files/data/Decision/PedEvent.txt",
       "size": 1298,
       "gpu": "all"
     },
     {
       "name": "Cop.ped",
       "path": "data/Decision/Allowed/Cop.ped",
-      "url": "http://newcityrp.co.in/files/data/Decision/Allowed/Cop.ped",
+      "url": "https://newcityrp.co.in/files/data/Decision/Allowed/Cop.ped",
       "size": 4908,
       "gpu": "all"
     },
     {
       "name": "Fireman.ped",
       "path": "data/Decision/Allowed/Fireman.ped",
-      "url": "http://newcityrp.co.in/files/data/Decision/Allowed/Fireman.ped",
+      "url": "https://newcityrp.co.in/files/data/Decision/Allowed/Fireman.ped",
       "size": 4435,
       "gpu": "all"
     },
     {
       "name": "GangMbr.ped",
       "path": "data/Decision/Allowed/GangMbr.ped",
-      "url": "http://newcityrp.co.in/files/data/Decision/Allowed/GangMbr.ped",
+      "url": "https://newcityrp.co.in/files/data/Decision/Allowed/GangMbr.ped",
       "size": 6194,
       "gpu": "all"
     },
     {
       "name": "Indoors.ped",
       "path": "data/Decision/Allowed/Indoors.ped",
-      "url": "http://newcityrp.co.in/files/data/Decision/Allowed/Indoors.ped",
+      "url": "https://newcityrp.co.in/files/data/Decision/Allowed/Indoors.ped",
       "size": 2809,
       "gpu": "all"
     },
     {
       "name": "MISSION.grp",
       "path": "data/Decision/Allowed/MISSION.grp",
-      "url": "http://newcityrp.co.in/files/data/Decision/Allowed/MISSION.grp",
+      "url": "https://newcityrp.co.in/files/data/Decision/Allowed/MISSION.grp",
       "size": 2758,
       "gpu": "all"
     },
     {
       "name": "m_empty.ped",
       "path": "data/Decision/Allowed/m_empty.ped",
-      "url": "http://newcityrp.co.in/files/data/Decision/Allowed/m_empty.ped",
+      "url": "https://newcityrp.co.in/files/data/Decision/Allowed/m_empty.ped",
       "size": 982,
       "gpu": "all"
     },
     {
       "name": "m_norm.ped",
       "path": "data/Decision/Allowed/m_norm.ped",
-      "url": "http://newcityrp.co.in/files/data/Decision/Allowed/m_norm.ped",
+      "url": "https://newcityrp.co.in/files/data/Decision/Allowed/m_norm.ped",
       "size": 4142,
       "gpu": "all"
     },
     {
       "name": "m_plyr.ped",
       "path": "data/Decision/Allowed/m_plyr.ped",
-      "url": "http://newcityrp.co.in/files/data/Decision/Allowed/m_plyr.ped",
+      "url": "https://newcityrp.co.in/files/data/Decision/Allowed/m_plyr.ped",
       "size": 2000,
       "gpu": "all"
     },
     {
       "name": "m_steal.ped",
       "path": "data/Decision/Allowed/m_steal.ped",
-      "url": "http://newcityrp.co.in/files/data/Decision/Allowed/m_steal.ped",
+      "url": "https://newcityrp.co.in/files/data/Decision/Allowed/m_steal.ped",
       "size": 3663,
       "gpu": "all"
     },
     {
       "name": "m_tough.ped",
       "path": "data/Decision/Allowed/m_tough.ped",
-      "url": "http://newcityrp.co.in/files/data/Decision/Allowed/m_tough.ped",
+      "url": "https://newcityrp.co.in/files/data/Decision/Allowed/m_tough.ped",
       "size": 3980,
       "gpu": "all"
     },
     {
       "name": "m_weak.ped",
       "path": "data/Decision/Allowed/m_weak.ped",
-      "url": "http://newcityrp.co.in/files/data/Decision/Allowed/m_weak.ped",
+      "url": "https://newcityrp.co.in/files/data/Decision/Allowed/m_weak.ped",
       "size": 4062,
       "gpu": "all"
     },
     {
       "name": "RANDOM.grp",
       "path": "data/Decision/Allowed/RANDOM.grp",
-      "url": "http://newcityrp.co.in/files/data/Decision/Allowed/RANDOM.grp",
+      "url": "https://newcityrp.co.in/files/data/Decision/Allowed/RANDOM.grp",
       "size": 4623,
       "gpu": "all"
     },
     {
       "name": "RANDOM.ped",
       "path": "data/Decision/Allowed/RANDOM.ped",
-      "url": "http://newcityrp.co.in/files/data/Decision/Allowed/RANDOM.ped",
+      "url": "https://newcityrp.co.in/files/data/Decision/Allowed/RANDOM.ped",
       "size": 4142,
       "gpu": "all"
     },
     {
       "name": "RANDOM2.grp",
       "path": "data/Decision/Allowed/RANDOM2.grp",
-      "url": "http://newcityrp.co.in/files/data/Decision/Allowed/RANDOM2.grp",
+      "url": "https://newcityrp.co.in/files/data/Decision/Allowed/RANDOM2.grp",
       "size": 4623,
       "gpu": "all"
     },
     {
       "name": "R_Norm.ped",
       "path": "data/Decision/Allowed/R_Norm.ped",
-      "url": "http://newcityrp.co.in/files/data/Decision/Allowed/R_Norm.ped",
+      "url": "https://newcityrp.co.in/files/data/Decision/Allowed/R_Norm.ped",
       "size": 6450,
       "gpu": "all"
     },
     {
       "name": "R_Tough.ped",
       "path": "data/Decision/Allowed/R_Tough.ped",
-      "url": "http://newcityrp.co.in/files/data/Decision/Allowed/R_Tough.ped",
+      "url": "https://newcityrp.co.in/files/data/Decision/Allowed/R_Tough.ped",
       "size": 6378,
       "gpu": "all"
     },
     {
       "name": "R_Weak.ped",
       "path": "data/Decision/Allowed/R_Weak.ped",
-      "url": "http://newcityrp.co.in/files/data/Decision/Allowed/R_Weak.ped",
+      "url": "https://newcityrp.co.in/files/data/Decision/Allowed/R_Weak.ped",
       "size": 6289,
       "gpu": "all"
     },
     {
       "name": "Audiozon.ipl",
       "path": "data/maps/Audiozon.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/Audiozon.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/Audiozon.ipl",
       "size": 10802,
       "gpu": "all"
     },
     {
       "name": "cull.ipl",
       "path": "data/maps/cull.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/cull.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/cull.ipl",
       "size": 104318,
       "gpu": "all"
     },
     {
       "name": "occlu.ipl",
       "path": "data/maps/occlu.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/occlu.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/occlu.ipl",
       "size": 1012,
       "gpu": "all"
     },
     {
       "name": "occluint.ipl",
       "path": "data/maps/occluint.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/occluint.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/occluint.ipl",
       "size": 2338,
       "gpu": "all"
     },
     {
       "name": "occluLA.ipl",
       "path": "data/maps/occluLA.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/occluLA.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/occluLA.ipl",
       "size": 35956,
       "gpu": "all"
     },
     {
       "name": "occlusf.ipl",
       "path": "data/maps/occlusf.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/occlusf.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/occlusf.ipl",
       "size": 16114,
       "gpu": "all"
     },
     {
       "name": "occluveg.ipl",
       "path": "data/maps/occluveg.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/occluveg.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/occluveg.ipl",
       "size": 17944,
       "gpu": "all"
     },
     {
       "name": "paths.ipl",
       "path": "data/maps/paths.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/paths.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/paths.ipl",
       "size": 2658607,
       "gpu": "all"
     },
     {
       "name": "paths2.ipl",
       "path": "data/maps/paths2.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/paths2.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/paths2.ipl",
       "size": 2292241,
       "gpu": "all"
     },
     {
       "name": "paths3.ipl",
       "path": "data/maps/paths3.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/paths3.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/paths3.ipl",
       "size": 2428066,
       "gpu": "all"
     },
     {
       "name": "paths4.ipl",
       "path": "data/maps/paths4.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/paths4.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/paths4.ipl",
       "size": 253014,
       "gpu": "all"
     },
     {
       "name": "paths5.ipl",
       "path": "data/maps/paths5.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/paths5.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/paths5.ipl",
       "size": 457678,
       "gpu": "all"
     },
     {
       "name": "tunnels.ipl",
       "path": "data/maps/tunnels.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/tunnels.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/tunnels.ipl",
       "size": 3230,
       "gpu": "all"
     },
     {
       "name": "countn2.ide",
       "path": "data/maps/country/countn2.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/country/countn2.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/country/countn2.ide",
       "size": 35439,
       "gpu": "all"
     },
     {
       "name": "countn2.ipl",
       "path": "data/maps/country/countn2.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/country/countn2.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/country/countn2.ipl",
       "size": 41665,
       "gpu": "all"
     },
     {
       "name": "countrye.ide",
       "path": "data/maps/country/countrye.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/country/countrye.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/country/countrye.ide",
       "size": 34529,
       "gpu": "all"
     },
     {
       "name": "countrye.ipl",
       "path": "data/maps/country/countrye.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/country/countrye.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/country/countrye.ipl",
       "size": 49301,
       "gpu": "all"
     },
     {
       "name": "countryN.ide",
       "path": "data/maps/country/countryN.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/country/countryN.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/country/countryN.ide",
       "size": 11308,
       "gpu": "all"
     },
     {
       "name": "countryN.ipl",
       "path": "data/maps/country/countryN.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/country/countryN.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/country/countryN.ipl",
       "size": 14407,
       "gpu": "all"
     },
     {
       "name": "countryS.ide",
       "path": "data/maps/country/countryS.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/country/countryS.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/country/countryS.ide",
       "size": 18450,
       "gpu": "all"
     },
     {
       "name": "countryS.ipl",
       "path": "data/maps/country/countryS.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/country/countryS.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/country/countryS.ipl",
       "size": 33835,
       "gpu": "all"
     },
     {
       "name": "countryW.ide",
       "path": "data/maps/country/countryW.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/country/countryW.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/country/countryW.ide",
       "size": 19704,
       "gpu": "all"
     },
     {
       "name": "countryw.ipl",
       "path": "data/maps/country/countryw.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/country/countryw.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/country/countryw.ipl",
       "size": 35057,
       "gpu": "all"
     },
     {
       "name": "counxref.ide",
       "path": "data/maps/country/counxref.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/country/counxref.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/country/counxref.ide",
       "size": 8494,
       "gpu": "all"
     },
     {
       "name": "barriers.ide",
       "path": "data/maps/generic/barriers.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/generic/barriers.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/generic/barriers.ide",
       "size": 1437,
       "gpu": "all"
     },
     {
       "name": "dynamic.ide",
       "path": "data/maps/generic/dynamic.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/generic/dynamic.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/generic/dynamic.ide",
       "size": 4611,
       "gpu": "all"
     },
     {
       "name": "dynamic2.ide",
       "path": "data/maps/generic/dynamic2.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/generic/dynamic2.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/generic/dynamic2.ide",
       "size": 10510,
       "gpu": "all"
     },
     {
       "name": "multiobj.ide",
       "path": "data/maps/generic/multiobj.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/generic/multiobj.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/generic/multiobj.ide",
       "size": 5020,
       "gpu": "all"
     },
     {
       "name": "procobj.ide",
       "path": "data/maps/generic/procobj.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/generic/procobj.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/generic/procobj.ide",
       "size": 4755,
       "gpu": "all"
     },
     {
       "name": "vegepart.ide",
       "path": "data/maps/generic/vegepart.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/generic/vegepart.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/generic/vegepart.ide",
       "size": 8062,
       "gpu": "all"
     },
     {
       "name": "gen_int1.ide",
       "path": "data/maps/interior/gen_int1.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/interior/gen_int1.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/interior/gen_int1.ide",
       "size": 2747,
       "gpu": "all"
     },
     {
       "name": "gen_int1.ipl",
       "path": "data/maps/interior/gen_int1.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/interior/gen_int1.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/interior/gen_int1.ipl",
       "size": 21074,
       "gpu": "all"
     },
     {
       "name": "gen_int2.ide",
       "path": "data/maps/interior/gen_int2.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/interior/gen_int2.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/interior/gen_int2.ide",
       "size": 10941,
       "gpu": "all"
     },
     {
       "name": "gen_int2.ipl",
       "path": "data/maps/interior/gen_int2.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/interior/gen_int2.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/interior/gen_int2.ipl",
       "size": 1683,
       "gpu": "all"
     },
     {
       "name": "gen_int3.ide",
       "path": "data/maps/interior/gen_int3.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/interior/gen_int3.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/interior/gen_int3.ide",
       "size": 3252,
       "gpu": "all"
     },
     {
       "name": "gen_int3.ipl",
       "path": "data/maps/interior/gen_int3.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/interior/gen_int3.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/interior/gen_int3.ipl",
       "size": 2091,
       "gpu": "all"
     },
     {
       "name": "gen_int4.ide",
       "path": "data/maps/interior/gen_int4.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/interior/gen_int4.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/interior/gen_int4.ide",
       "size": 2323,
       "gpu": "all"
     },
     {
       "name": "gen_int4.ipl",
       "path": "data/maps/interior/gen_int4.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/interior/gen_int4.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/interior/gen_int4.ipl",
       "size": 1185,
       "gpu": "all"
     },
     {
       "name": "gen_int5.ide",
       "path": "data/maps/interior/gen_int5.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/interior/gen_int5.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/interior/gen_int5.ide",
       "size": 4682,
       "gpu": "all"
     },
     {
       "name": "gen_int5.ipl",
       "path": "data/maps/interior/gen_int5.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/interior/gen_int5.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/interior/gen_int5.ipl",
       "size": 2988,
       "gpu": "all"
     },
     {
       "name": "gen_intb.ide",
       "path": "data/maps/interior/gen_intb.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/interior/gen_intb.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/interior/gen_intb.ide",
       "size": 5459,
       "gpu": "all"
     },
     {
       "name": "gen_intb.ipl",
       "path": "data/maps/interior/gen_intb.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/interior/gen_intb.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/interior/gen_intb.ipl",
       "size": 1626,
       "gpu": "all"
     },
     {
       "name": "int_cont.ide",
       "path": "data/maps/interior/int_cont.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/interior/int_cont.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/interior/int_cont.ide",
       "size": 385,
       "gpu": "all"
     },
     {
       "name": "int_cont.ipl",
       "path": "data/maps/interior/int_cont.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/interior/int_cont.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/interior/int_cont.ipl",
       "size": 910,
       "gpu": "all"
     },
     {
       "name": "int_LA.ide",
       "path": "data/maps/interior/int_LA.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/interior/int_LA.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/interior/int_LA.ide",
       "size": 6004,
       "gpu": "all"
     },
     {
       "name": "int_LA.ipl",
       "path": "data/maps/interior/int_LA.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/interior/int_LA.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/interior/int_LA.ipl",
       "size": 1312,
       "gpu": "all"
     },
     {
       "name": "int_SF.ide",
       "path": "data/maps/interior/int_SF.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/interior/int_SF.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/interior/int_SF.ide",
       "size": 1260,
       "gpu": "all"
     },
     {
       "name": "int_SF.ipl",
       "path": "data/maps/interior/int_SF.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/interior/int_SF.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/interior/int_SF.ipl",
       "size": 1334,
       "gpu": "all"
     },
     {
       "name": "int_veg.ide",
       "path": "data/maps/interior/int_veg.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/interior/int_veg.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/interior/int_veg.ide",
       "size": 4684,
       "gpu": "all"
     },
     {
       "name": "int_veg.ipl",
       "path": "data/maps/interior/int_veg.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/interior/int_veg.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/interior/int_veg.ipl",
       "size": 5299,
       "gpu": "all"
     },
     {
       "name": "propext.ide",
       "path": "data/maps/interior/propext.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/interior/propext.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/interior/propext.ide",
       "size": 2340,
       "gpu": "all"
     },
     {
       "name": "props.ide",
       "path": "data/maps/interior/props.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/interior/props.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/interior/props.ide",
       "size": 26326,
       "gpu": "all"
     },
     {
       "name": "props2.ide",
       "path": "data/maps/interior/props2.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/interior/props2.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/interior/props2.ide",
       "size": 21174,
       "gpu": "all"
     },
     {
       "name": "savehous.ide",
       "path": "data/maps/interior/savehous.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/interior/savehous.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/interior/savehous.ide",
       "size": 1724,
       "gpu": "all"
     },
     {
       "name": "savehous.ipl",
       "path": "data/maps/interior/savehous.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/interior/savehous.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/interior/savehous.ipl",
       "size": 2959,
       "gpu": "all"
     },
     {
       "name": "stadint.ide",
       "path": "data/maps/interior/stadint.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/interior/stadint.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/interior/stadint.ide",
       "size": 2851,
       "gpu": "all"
     },
     {
       "name": "stadint.ipl",
       "path": "data/maps/interior/stadint.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/interior/stadint.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/interior/stadint.ipl",
       "size": 6299,
       "gpu": "all"
     },
     {
       "name": "LAe.ide",
       "path": "data/maps/LA/LAe.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/LA/LAe.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/LA/LAe.ide",
       "size": 12249,
       "gpu": "all"
     },
     {
       "name": "LAe.ipl",
       "path": "data/maps/LA/LAe.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/LA/LAe.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/LA/LAe.ipl",
       "size": 27328,
       "gpu": "all"
     },
     {
       "name": "LAe2.ide",
       "path": "data/maps/LA/LAe2.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/LA/LAe2.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/LA/LAe2.ide",
       "size": 21907,
       "gpu": "all"
     },
     {
       "name": "LAe2.ipl",
       "path": "data/maps/LA/LAe2.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/LA/LAe2.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/LA/LAe2.ipl",
       "size": 33651,
       "gpu": "all"
     },
     {
       "name": "LAhills.ide",
       "path": "data/maps/LA/LAhills.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/LA/LAhills.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/LA/LAhills.ide",
       "size": 10601,
       "gpu": "all"
     },
     {
       "name": "LAhills.ipl",
       "path": "data/maps/LA/LAhills.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/LA/LAhills.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/LA/LAhills.ipl",
       "size": 34506,
       "gpu": "all"
     },
     {
       "name": "LAn.ide",
       "path": "data/maps/LA/LAn.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/LA/LAn.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/LA/LAn.ide",
       "size": 11107,
       "gpu": "all"
     },
     {
       "name": "LAn.ipl",
       "path": "data/maps/LA/LAn.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/LA/LAn.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/LA/LAn.ipl",
       "size": 14264,
       "gpu": "all"
     },
     {
       "name": "LAn2.ide",
       "path": "data/maps/LA/LAn2.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/LA/LAn2.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/LA/LAn2.ide",
       "size": 9565,
       "gpu": "all"
     },
     {
       "name": "LAn2.ipl",
       "path": "data/maps/LA/LAn2.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/LA/LAn2.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/LA/LAn2.ipl",
       "size": 13185,
       "gpu": "all"
     },
     {
       "name": "LAs.ide",
       "path": "data/maps/LA/LAs.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/LA/LAs.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/LA/LAs.ide",
       "size": 12575,
       "gpu": "all"
     },
     {
       "name": "LAs.ipl",
       "path": "data/maps/LA/LAs.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/LA/LAs.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/LA/LAs.ipl",
       "size": 22414,
       "gpu": "all"
     },
     {
       "name": "LAs2.ide",
       "path": "data/maps/LA/LAs2.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/LA/LAs2.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/LA/LAs2.ide",
       "size": 12364,
       "gpu": "all"
     },
     {
       "name": "LAs2.ipl",
       "path": "data/maps/LA/LAs2.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/LA/LAs2.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/LA/LAs2.ipl",
       "size": 38441,
       "gpu": "all"
     },
     {
       "name": "LAw.ide",
       "path": "data/maps/LA/LAw.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/LA/LAw.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/LA/LAw.ide",
       "size": 9412,
       "gpu": "all"
     },
     {
       "name": "LAw.ipl",
       "path": "data/maps/LA/LAw.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/LA/LAw.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/LA/LAw.ipl",
       "size": 15105,
       "gpu": "all"
     },
     {
       "name": "LAw2.ide",
       "path": "data/maps/LA/LAw2.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/LA/LAw2.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/LA/LAw2.ide",
       "size": 11060,
       "gpu": "all"
     },
     {
       "name": "LAw2.ipl",
       "path": "data/maps/LA/LAw2.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/LA/LAw2.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/LA/LAw2.ipl",
       "size": 18232,
       "gpu": "all"
     },
     {
       "name": "LaWn.ide",
       "path": "data/maps/LA/LaWn.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/LA/LaWn.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/LA/LaWn.ide",
       "size": 13092,
       "gpu": "all"
     },
     {
       "name": "LaWn.ipl",
       "path": "data/maps/LA/LaWn.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/LA/LaWn.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/LA/LaWn.ipl",
       "size": 24330,
       "gpu": "all"
     },
     {
       "name": "LAxref.ide",
       "path": "data/maps/LA/LAxref.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/LA/LAxref.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/LA/LAxref.ide",
       "size": 10477,
       "gpu": "all"
     },
     {
       "name": "leveldes.ide",
       "path": "data/maps/leveldes/leveldes.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/leveldes/leveldes.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/leveldes/leveldes.ide",
       "size": 360,
       "gpu": "all"
     },
     {
       "name": "leveldes.ipl",
       "path": "data/maps/leveldes/leveldes.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/leveldes/leveldes.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/leveldes/leveldes.ipl",
       "size": 165,
       "gpu": "all"
     },
     {
       "name": "levelmap.ide",
       "path": "data/maps/leveldes/levelmap.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/leveldes/levelmap.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/leveldes/levelmap.ide",
       "size": 3194,
       "gpu": "all"
     },
     {
       "name": "levelmap.ipl",
       "path": "data/maps/leveldes/levelmap.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/leveldes/levelmap.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/leveldes/levelmap.ipl",
       "size": 4675,
       "gpu": "all"
     },
     {
       "name": "levelxre.ide",
       "path": "data/maps/leveldes/levelxre.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/leveldes/levelxre.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/leveldes/levelxre.ide",
       "size": 9897,
       "gpu": "all"
     },
     {
       "name": "seabed.ide",
       "path": "data/maps/leveldes/seabed.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/leveldes/seabed.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/leveldes/seabed.ide",
       "size": 12039,
       "gpu": "all"
     },
     {
       "name": "seabed.ipl",
       "path": "data/maps/leveldes/seabed.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/leveldes/seabed.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/leveldes/seabed.ipl",
       "size": 23342,
       "gpu": "all"
     },
     {
       "name": "SFe.ide",
       "path": "data/maps/SF/SFe.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/SF/SFe.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/SF/SFe.ide",
       "size": 16224,
       "gpu": "all"
     },
     {
       "name": "SFe.ipl",
       "path": "data/maps/SF/SFe.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/SF/SFe.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/SF/SFe.ipl",
       "size": 26707,
       "gpu": "all"
     },
     {
       "name": "SFn.ide",
       "path": "data/maps/SF/SFn.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/SF/SFn.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/SF/SFn.ide",
       "size": 11219,
       "gpu": "all"
     },
     {
       "name": "SFn.ipl",
       "path": "data/maps/SF/SFn.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/SF/SFn.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/SF/SFn.ipl",
       "size": 26201,
       "gpu": "all"
     },
     {
       "name": "SFs.ide",
       "path": "data/maps/SF/SFs.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/SF/SFs.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/SF/SFs.ide",
       "size": 18948,
       "gpu": "all"
     },
     {
       "name": "SFs.ipl",
       "path": "data/maps/SF/SFs.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/SF/SFs.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/SF/SFs.ipl",
       "size": 37969,
       "gpu": "all"
     },
     {
       "name": "SFSe.ide",
       "path": "data/maps/SF/SFSe.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/SF/SFSe.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/SF/SFSe.ide",
       "size": 30227,
       "gpu": "all"
     },
     {
       "name": "SFSe.ipl",
       "path": "data/maps/SF/SFSe.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/SF/SFSe.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/SF/SFSe.ipl",
       "size": 53359,
       "gpu": "all"
     },
     {
       "name": "SFw.ide",
       "path": "data/maps/SF/SFw.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/SF/SFw.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/SF/SFw.ide",
       "size": 16473,
       "gpu": "all"
     },
     {
       "name": "SFw.ipl",
       "path": "data/maps/SF/SFw.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/SF/SFw.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/SF/SFw.ipl",
       "size": 29247,
       "gpu": "all"
     },
     {
       "name": "SFxref.ide",
       "path": "data/maps/SF/SFxref.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/SF/SFxref.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/SF/SFxref.ide",
       "size": 4631,
       "gpu": "all"
     },
     {
       "name": "vegasE.ide",
       "path": "data/maps/vegas/vegasE.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/vegas/vegasE.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/vegas/vegasE.ide",
       "size": 35542,
       "gpu": "all"
     },
     {
       "name": "vegasE.ipl",
       "path": "data/maps/vegas/vegasE.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/vegas/vegasE.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/vegas/vegasE.ipl",
       "size": 61084,
       "gpu": "all"
     },
     {
       "name": "VegasN.ide",
       "path": "data/maps/vegas/VegasN.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/vegas/VegasN.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/vegas/VegasN.ide",
       "size": 23715,
       "gpu": "all"
     },
     {
       "name": "vegasN.ipl",
       "path": "data/maps/vegas/vegasN.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/vegas/vegasN.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/vegas/vegasN.ipl",
       "size": 36651,
       "gpu": "all"
     },
     {
       "name": "VegasS.ide",
       "path": "data/maps/vegas/VegasS.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/vegas/VegasS.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/vegas/VegasS.ide",
       "size": 18656,
       "gpu": "all"
     },
     {
       "name": "vegasS.ipl",
       "path": "data/maps/vegas/vegasS.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/vegas/vegasS.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/vegas/vegasS.ipl",
       "size": 30343,
       "gpu": "all"
     },
     {
       "name": "VegasW.ide",
       "path": "data/maps/vegas/VegasW.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/vegas/VegasW.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/vegas/VegasW.ide",
       "size": 25456,
       "gpu": "all"
     },
     {
       "name": "vegasW.ipl",
       "path": "data/maps/vegas/vegasW.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/vegas/vegasW.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/vegas/vegasW.ipl",
       "size": 49867,
       "gpu": "all"
     },
     {
       "name": "vegaxref.ide",
       "path": "data/maps/vegas/vegaxref.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/vegas/vegaxref.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/vegas/vegaxref.ide",
       "size": 5751,
       "gpu": "all"
     },
     {
       "name": "vegaxref.ipl",
       "path": "data/maps/vegas/vegaxref.ipl",
-      "url": "http://newcityrp.co.in/files/data/maps/vegas/vegaxref.ipl",
+      "url": "https://newcityrp.co.in/files/data/maps/vegas/vegaxref.ipl",
       "size": 3661,
       "gpu": "all"
     },
     {
       "name": "veh_mods.ide",
       "path": "data/maps/veh_mods/veh_mods.ide",
-      "url": "http://newcityrp.co.in/files/data/maps/veh_mods/veh_mods.ide",
+      "url": "https://newcityrp.co.in/files/data/maps/veh_mods/veh_mods.ide",
       "size": 7323,
       "gpu": "all"
     },
     {
       "name": "carrec.img",
       "path": "data/paths/carrec.img",
-      "url": "http://newcityrp.co.in/files/data/paths/carrec.img",
+      "url": "https://newcityrp.co.in/files/data/paths/carrec.img",
       "size": 2357248,
       "gpu": "all"
     },
     {
       "name": "ROADBLOX.DAT",
       "path": "data/paths/ROADBLOX.DAT",
-      "url": "http://newcityrp.co.in/files/data/paths/ROADBLOX.DAT",
+      "url": "https://newcityrp.co.in/files/data/paths/ROADBLOX.DAT",
       "size": 1304,
       "gpu": "all"
     },
     {
       "name": "tracks.dat",
       "path": "data/paths/tracks.dat",
-      "url": "http://newcityrp.co.in/files/data/paths/tracks.dat",
+      "url": "https://newcityrp.co.in/files/data/paths/tracks.dat",
       "size": 25474,
       "gpu": "all"
     },
     {
       "name": "tracks2.dat",
       "path": "data/paths/tracks2.dat",
-      "url": "http://newcityrp.co.in/files/data/paths/tracks2.dat",
+      "url": "https://newcityrp.co.in/files/data/paths/tracks2.dat",
       "size": 1892,
       "gpu": "all"
     },
     {
       "name": "tracks3.dat",
       "path": "data/paths/tracks3.dat",
-      "url": "http://newcityrp.co.in/files/data/paths/tracks3.dat",
+      "url": "https://newcityrp.co.in/files/data/paths/tracks3.dat",
       "size": 8328,
       "gpu": "all"
     },
     {
       "name": "tracks4.dat",
       "path": "data/paths/tracks4.dat",
-      "url": "http://newcityrp.co.in/files/data/paths/tracks4.dat",
+      "url": "https://newcityrp.co.in/files/data/paths/tracks4.dat",
       "size": 18347,
       "gpu": "all"
     },
     {
       "name": "mainV1.scm",
       "path": "data/script/mainV1.scm",
-      "url": "http://newcityrp.co.in/files/data/script/mainV1.scm",
+      "url": "https://newcityrp.co.in/files/data/script/mainV1.scm",
       "size": 3169778,
       "gpu": "all"
     },
     {
       "name": "scriptv1.img",
       "path": "data/script/scriptv1.img",
-      "url": "http://newcityrp.co.in/files/data/script/scriptv1.img",
+      "url": "https://newcityrp.co.in/files/data/script/scriptv1.img",
       "size": 561152,
       "gpu": "all"
     },
     {
       "name": "arial.ttf",
       "path": "fonts/arial.ttf",
-      "url": "http://newcityrp.co.in/files/fonts/arial.ttf",
+      "url": "https://newcityrp.co.in/files/fonts/arial.ttf",
       "size": 367112,
       "gpu": "all"
     },
     {
       "name": "gtaweap3.ttf",
       "path": "fonts/gtaweap3.ttf",
-      "url": "http://newcityrp.co.in/files/fonts/gtaweap3.ttf",
+      "url": "https://newcityrp.co.in/files/fonts/gtaweap3.ttf",
       "size": 104004,
       "gpu": "all"
     },
     {
       "name": "arial_bold.ttf",
       "path": "fonts/arial_bold.ttf",
-      "url": "http://newcityrp.co.in/files/fonts/arial_bold.ttf",
+      "url": "https://newcityrp.co.in/files/fonts/arial_bold.ttf",
       "size": 352224,
       "gpu": "all"
     },
     {
       "name": "georgia.ttf",
       "path": "fonts/georgia.ttf",
-      "url": "http://newcityrp.co.in/files/fonts/georgia.ttf",
+      "url": "https://newcityrp.co.in/files/fonts/georgia.ttf",
       "size": 219712,
       "gpu": "all"
     },
     {
       "name": "impact.ttf",
       "path": "fonts/impact.ttf",
-      "url": "http://newcityrp.co.in/files/fonts/impact.ttf",
+      "url": "https://newcityrp.co.in/files/fonts/impact.ttf",
       "size": 206784,
       "gpu": "all"
     },
     {
       "name": "palatino_linotype.ttf",
       "path": "fonts/palatino_linotype.ttf",
-      "url": "http://newcityrp.co.in/files/fonts/palatino_linotype.ttf",
+      "url": "https://newcityrp.co.in/files/fonts/palatino_linotype.ttf",
       "size": 489884,
       "gpu": "all"
     },
     {
       "name": "quartz_ms.ttf",
       "path": "fonts/quartz_ms.ttf",
-      "url": "http://newcityrp.co.in/files/fonts/quartz_ms.ttf",
+      "url": "https://newcityrp.co.in/files/fonts/quartz_ms.ttf",
       "size": 51032,
       "gpu": "all"
     },
     {
       "name": "segoe_print.ttf",
       "path": "fonts/segoe_print.ttf",
-      "url": "http://newcityrp.co.in/files/fonts/segoe_print.ttf",
+      "url": "https://newcityrp.co.in/files/fonts/segoe_print.ttf",
       "size": 172448,
       "gpu": "all"
     },
     {
       "name": "segoe_script.ttf",
       "path": "fonts/segoe_script.ttf",
-      "url": "http://newcityrp.co.in/files/fonts/segoe_script.ttf",
+      "url": "https://newcityrp.co.in/files/fonts/segoe_script.ttf",
       "size": 620204,
       "gpu": "all"
     },
     {
       "name": "tahoma.ttf",
       "path": "fonts/tahoma.ttf",
-      "url": "http://newcityrp.co.in/files/fonts/tahoma.ttf",
+      "url": "https://newcityrp.co.in/files/fonts/tahoma.ttf",
       "size": 939280,
       "gpu": "all"
     },
     {
       "name": "webdings.ttf",
       "path": "fonts/webdings.ttf",
-      "url": "http://newcityrp.co.in/files/fonts/webdings.ttf",
+      "url": "https://newcityrp.co.in/files/fonts/webdings.ttf",
       "size": 120560,
       "gpu": "all"
     },
     {
       "name": "wingding.ttf",
       "path": "fonts/wingding.ttf",
-      "url": "http://newcityrp.co.in/files/fonts/wingding.ttf",
+      "url": "https://newcityrp.co.in/files/fonts/wingding.ttf",
       "size": 82180,
       "gpu": "all"
     },
     {
       "name": "effects.fxp",
       "path": "models/effects.fxp",
-      "url": "http://newcityrp.co.in/files/models/effects.fxp",
+      "url": "https://newcityrp.co.in/files/models/effects.fxp",
       "size": 616708,
       "gpu": "all"
     },
     {
       "name": "MINFO.BIN",
       "path": "models/MINFO.BIN",
-      "url": "http://newcityrp.co.in/files/models/MINFO.BIN",
+      "url": "https://newcityrp.co.in/files/models/MINFO.BIN",
       "size": 41100,
       "gpu": "all"
     },
     {
       "name": "peds.col",
       "path": "models/coll/peds.col",
-      "url": "http://newcityrp.co.in/files/models/coll/peds.col",
+      "url": "https://newcityrp.co.in/files/models/coll/peds.col",
       "size": 21477,
       "gpu": "all"
     },
     {
       "name": "vehicles.col",
       "path": "models/coll/vehicles.col",
-      "url": "http://newcityrp.co.in/files/models/coll/vehicles.col",
+      "url": "https://newcityrp.co.in/files/models/coll/vehicles.col",
       "size": 1096,
       "gpu": "all"
     },
     {
       "name": "weapons.col",
       "path": "models/coll/weapons.col",
-      "url": "http://newcityrp.co.in/files/models/coll/weapons.col",
+      "url": "https://newcityrp.co.in/files/models/coll/weapons.col",
       "size": 560,
       "gpu": "all"
     },
     {
       "name": "gta.dat",
       "path": "SAMP/gta.dat",
-      "url": "http://newcityrp.co.in/files/SAMP/gta.dat",
+      "url": "https://newcityrp.co.in/files/SAMP/gta.dat",
       "size": 3789,
       "gpu": "all"
     },
     {
       "name": "handling.cfg",
       "path": "SAMP/handling.cfg",
-      "url": "http://newcityrp.co.in/files/SAMP/handling.cfg",
+      "url": "https://newcityrp.co.in/files/SAMP/handling.cfg",
       "size": 64532,
       "gpu": "all"
     },
     {
       "name": "main.scm",
       "path": "SAMP/main.scm",
-      "url": "http://newcityrp.co.in/files/SAMP/main.scm",
+      "url": "https://newcityrp.co.in/files/SAMP/main.scm",
       "size": 96997,
       "gpu": "all"
     },
     {
       "name": "peds.ide",
       "path": "SAMP/peds.ide",
-      "url": "http://newcityrp.co.in/files/SAMP/peds.ide",
+      "url": "https://newcityrp.co.in/files/SAMP/peds.ide",
       "size": 36369,
       "gpu": "all"
     },
     {
       "name": "SAMP.ide",
       "path": "SAMP/SAMP.ide",
-      "url": "http://newcityrp.co.in/files/SAMP/SAMP.ide",
+      "url": "https://newcityrp.co.in/files/SAMP/SAMP.ide",
       "size": 89349,
       "gpu": "all"
     },
     {
       "name": "script.img",
       "path": "SAMP/script.img",
-      "url": "http://newcityrp.co.in/files/SAMP/script.img",
+      "url": "https://newcityrp.co.in/files/SAMP/script.img",
       "size": 184320,
       "gpu": "all"
     },
     {
       "name": "settings.ini",
       "path": "SAMP/settings.ini",
-      "url": "http://newcityrp.co.in/files/SAMP/settings.ini",
+      "url": "https://newcityrp.co.in/files/SAMP/settings.ini",
       "size": 398,
       "gpu": "all"
     },
     {
       "name": "svlog.txt",
       "path": "SAMP/svlog.txt",
-      "url": "http://newcityrp.co.in/files/SAMP/svlog.txt",
+      "url": "https://newcityrp.co.in/files/SAMP/svlog.txt",
       "size": 479,
       "gpu": "all"
     },
     {
       "name": "TIMECYC.DAT",
       "path": "SAMP/TIMECYC.DAT",
-      "url": "http://newcityrp.co.in/files/SAMP/TIMECYC.DAT",
+      "url": "https://newcityrp.co.in/files/SAMP/TIMECYC.DAT",
       "size": 40037,
       "gpu": "all"
     },
     {
       "name": "tracks2.dat",
       "path": "SAMP/tracks2.dat",
-      "url": "http://newcityrp.co.in/files/SAMP/tracks2.dat",
+      "url": "https://newcityrp.co.in/files/SAMP/tracks2.dat",
       "size": 1,
       "gpu": "all"
     },
     {
       "name": "tracks4.dat",
       "path": "SAMP/tracks4.dat",
-      "url": "http://newcityrp.co.in/files/SAMP/tracks4.dat",
+      "url": "https://newcityrp.co.in/files/SAMP/tracks4.dat",
       "size": 1,
       "gpu": "all"
     },
     {
       "name": "vehicles.ide",
       "path": "SAMP/vehicles.ide",
-      "url": "http://newcityrp.co.in/files/SAMP/vehicles.ide",
+      "url": "https://newcityrp.co.in/files/SAMP/vehicles.ide",
       "size": 21093,
       "gpu": "all"
     },
     {
       "name": "WEAPON.dat",
       "path": "SAMP/WEAPON.dat",
-      "url": "http://newcityrp.co.in/files/SAMP/WEAPON.dat",
+      "url": "https://newcityrp.co.in/files/SAMP/WEAPON.dat",
       "size": 11585,
       "gpu": "all"
     },
     {
       "name": "gta3.img",
       "path": "texdb/gta3.img",
-      "url": "http://newcityrp.co.in/files/texdb/gta3.img",
+      "url": "https://newcityrp.co.in/files/texdb/gta3.img",
       "size": 283521024,
       "gpu": "all"
     },
     {
       "name": "gta_int.img",
       "path": "texdb/gta_int.img",
-      "url": "http://newcityrp.co.in/files/texdb/gta_int.img",
+      "url": "https://newcityrp.co.in/files/texdb/gta_int.img",
       "size": 44836864,
       "gpu": "all"
     },
     {
       "name": "player.img",
       "path": "texdb/player.img",
-      "url": "http://newcityrp.co.in/files/texdb/player.img",
+      "url": "https://newcityrp.co.in/files/texdb/player.img",
       "size": 16412672,
       "gpu": "all"
     },
     {
       "name": "samp.img",
       "path": "texdb/samp.img",
-      "url": "http://newcityrp.co.in/files/texdb/samp.img",
+      "url": "https://newcityrp.co.in/files/texdb/samp.img",
       "size": 36902912,
       "gpu": "all"
     },
     {
       "name": "SAMPCOL.img",
       "path": "texdb/SAMPCOL.img",
-      "url": "http://newcityrp.co.in/files/texdb/SAMPCOL.img",
+      "url": "https://newcityrp.co.in/files/texdb/SAMPCOL.img",
       "size": 4253696,
       "gpu": "all"
     },
     {
       "name": "gta3.dxt.dat",
       "path": "texdb/gta3/gta3.dxt.dat",
-      "url": "http://newcityrp.co.in/files/texdb/gta3/gta3.dxt.dat",
+      "url": "https://newcityrp.co.in/files/texdb/gta3/gta3.dxt.dat",
       "size": 185311596,
       "gpu": "dxt"
     },
     {
       "name": "gta3.dxt.tmb",
       "path": "texdb/gta3/gta3.dxt.tmb",
-      "url": "http://newcityrp.co.in/files/texdb/gta3/gta3.dxt.tmb",
+      "url": "https://newcityrp.co.in/files/texdb/gta3/gta3.dxt.tmb",
       "size": 525340,
       "gpu": "dxt"
     },
     {
       "name": "gta3.dxt.toc",
       "path": "texdb/gta3/gta3.dxt.toc",
-      "url": "http://newcityrp.co.in/files/texdb/gta3/gta3.dxt.toc",
+      "url": "https://newcityrp.co.in/files/texdb/gta3/gta3.dxt.toc",
       "size": 49784,
       "gpu": "dxt"
     },
     {
       "name": "gta3.etc.dat",
       "path": "texdb/gta3/gta3.etc.dat",
-      "url": "http://newcityrp.co.in/files/texdb/gta3/gta3.etc.dat",
+      "url": "https://newcityrp.co.in/files/texdb/gta3/gta3.etc.dat",
       "size": 185725552,
       "gpu": "etc"
     },
     {
       "name": "gta3.etc.tmb",
       "path": "texdb/gta3/gta3.etc.tmb",
-      "url": "http://newcityrp.co.in/files/texdb/gta3/gta3.etc.tmb",
+      "url": "https://newcityrp.co.in/files/texdb/gta3/gta3.etc.tmb",
       "size": 575452,
       "gpu": "etc"
     },
     {
       "name": "gta3.etc.toc",
       "path": "texdb/gta3/gta3.etc.toc",
-      "url": "http://newcityrp.co.in/files/texdb/gta3/gta3.etc.toc",
+      "url": "https://newcityrp.co.in/files/texdb/gta3/gta3.etc.toc",
       "size": 49784,
       "gpu": "etc"
     },
     {
       "name": "gta3.pvr.dat",
       "path": "texdb/gta3/gta3.pvr.dat",
-      "url": "http://newcityrp.co.in/files/texdb/gta3/gta3.pvr.dat",
+      "url": "https://newcityrp.co.in/files/texdb/gta3/gta3.pvr.dat",
       "size": 115205762,
       "gpu": "pvr"
     },
     {
       "name": "gta3.pvr.tmb",
       "path": "texdb/gta3/gta3.pvr.tmb",
-      "url": "http://newcityrp.co.in/files/texdb/gta3/gta3.pvr.tmb",
+      "url": "https://newcityrp.co.in/files/texdb/gta3/gta3.pvr.tmb",
       "size": 794396,
       "gpu": "pvr"
     },
     {
       "name": "gta3.pvr.toc",
       "path": "texdb/gta3/gta3.pvr.toc",
-      "url": "http://newcityrp.co.in/files/texdb/gta3/gta3.pvr.toc",
+      "url": "https://newcityrp.co.in/files/texdb/gta3/gta3.pvr.toc",
       "size": 49784,
       "gpu": "pvr"
     },
     {
       "name": "gta3.txt",
       "path": "texdb/gta3/gta3.txt",
-      "url": "http://newcityrp.co.in/files/texdb/gta3/gta3.txt",
+      "url": "https://newcityrp.co.in/files/texdb/gta3/gta3.txt",
       "size": 792665,
       "gpu": "all"
     },
     {
       "name": "gta3.unc.tmb",
       "path": "texdb/gta3/gta3.unc.tmb",
-      "url": "http://newcityrp.co.in/files/texdb/gta3/gta3.unc.tmb",
+      "url": "https://newcityrp.co.in/files/texdb/gta3/gta3.unc.tmb",
       "size": 1457212,
       "gpu": "all"
     },
     {
       "name": "gta_int.dxt.dat",
       "path": "texdb/gta_int/gta_int.dxt.dat",
-      "url": "http://newcityrp.co.in/files/texdb/gta_int/gta_int.dxt.dat",
+      "url": "https://newcityrp.co.in/files/texdb/gta_int/gta_int.dxt.dat",
       "size": 13592262,
       "gpu": "dxt"
     },
     {
       "name": "gta_int.dxt.tmb",
       "path": "texdb/gta_int/gta_int.dxt.tmb",
-      "url": "http://newcityrp.co.in/files/texdb/gta_int/gta_int.dxt.tmb",
+      "url": "https://newcityrp.co.in/files/texdb/gta_int/gta_int.dxt.tmb",
       "size": 663408,
       "gpu": "dxt"
     },
     {
       "name": "gta_int.dxt.toc",
       "path": "texdb/gta_int/gta_int.dxt.toc",
-      "url": "http://newcityrp.co.in/files/texdb/gta_int/gta_int.dxt.toc",
+      "url": "https://newcityrp.co.in/files/texdb/gta_int/gta_int.dxt.toc",
       "size": 10132,
       "gpu": "dxt"
     },
     {
       "name": "gta_int.etc.dat",
       "path": "texdb/gta_int/gta_int.etc.dat",
-      "url": "http://newcityrp.co.in/files/texdb/gta_int/gta_int.etc.dat",
+      "url": "https://newcityrp.co.in/files/texdb/gta_int/gta_int.etc.dat",
       "size": 21742444,
       "gpu": "etc"
     },
     {
       "name": "gta_int.etc.tmb",
       "path": "texdb/gta_int/gta_int.etc.tmb",
-      "url": "http://newcityrp.co.in/files/texdb/gta_int/gta_int.etc.tmb",
+      "url": "https://newcityrp.co.in/files/texdb/gta_int/gta_int.etc.tmb",
       "size": 663408,
       "gpu": "etc"
     },
     {
       "name": "gta_int.etc.toc",
       "path": "texdb/gta_int/gta_int.etc.toc",
-      "url": "http://newcityrp.co.in/files/texdb/gta_int/gta_int.etc.toc",
+      "url": "https://newcityrp.co.in/files/texdb/gta_int/gta_int.etc.toc",
       "size": 10132,
       "gpu": "etc"
     },
     {
       "name": "gta_int.pvr.dat",
       "path": "texdb/gta_int/gta_int.pvr.dat",
-      "url": "http://newcityrp.co.in/files/texdb/gta_int/gta_int.pvr.dat",
+      "url": "https://newcityrp.co.in/files/texdb/gta_int/gta_int.pvr.dat",
       "size": 9466002,
       "gpu": "pvr"
     },
     {
       "name": "gta_int.pvr.tmb",
       "path": "texdb/gta_int/gta_int.pvr.tmb",
-      "url": "http://newcityrp.co.in/files/texdb/gta_int/gta_int.pvr.tmb",
+      "url": "https://newcityrp.co.in/files/texdb/gta_int/gta_int.pvr.tmb",
       "size": 663408,
       "gpu": "pvr"
     },
     {
       "name": "gta_int.pvr.toc",
       "path": "texdb/gta_int/gta_int.pvr.toc",
-      "url": "http://newcityrp.co.in/files/texdb/gta_int/gta_int.pvr.toc",
+      "url": "https://newcityrp.co.in/files/texdb/gta_int/gta_int.pvr.toc",
       "size": 10132,
       "gpu": "pvr"
     },
     {
       "name": "gta_int.txt",
       "path": "texdb/gta_int/gta_int.txt",
-      "url": "http://newcityrp.co.in/files/texdb/gta_int/gta_int.txt",
+      "url": "https://newcityrp.co.in/files/texdb/gta_int/gta_int.txt",
       "size": 174099,
       "gpu": "all"
     },
     {
       "name": "gta_int.unc.tmb",
       "path": "texdb/gta_int/gta_int.unc.tmb",
-      "url": "http://newcityrp.co.in/files/texdb/gta_int/gta_int.unc.tmb",
+      "url": "https://newcityrp.co.in/files/texdb/gta_int/gta_int.unc.tmb",
       "size": 663408,
       "gpu": "all"
     },
     {
       "name": "menu.dxt.dat",
       "path": "texdb/menu/menu.dxt.dat",
-      "url": "http://newcityrp.co.in/files/texdb/menu/menu.dxt.dat",
+      "url": "https://newcityrp.co.in/files/texdb/menu/menu.dxt.dat",
       "size": 5187414,
       "gpu": "dxt"
     },
     {
       "name": "menu.dxt.tmb",
       "path": "texdb/menu/menu.dxt.tmb",
-      "url": "http://newcityrp.co.in/files/texdb/menu/menu.dxt.tmb",
+      "url": "https://newcityrp.co.in/files/texdb/menu/menu.dxt.tmb",
       "size": 992,
       "gpu": "dxt"
     },
     {
       "name": "menu.dxt.toc",
       "path": "texdb/menu/menu.dxt.toc",
-      "url": "http://newcityrp.co.in/files/texdb/menu/menu.dxt.toc",
+      "url": "https://newcityrp.co.in/files/texdb/menu/menu.dxt.toc",
       "size": 176,
       "gpu": "dxt"
     },
     {
       "name": "menu.etc.dat",
       "path": "texdb/menu/menu.etc.dat",
-      "url": "http://newcityrp.co.in/files/texdb/menu/menu.etc.dat",
+      "url": "https://newcityrp.co.in/files/texdb/menu/menu.etc.dat",
       "size": 6472908,
       "gpu": "etc"
     },
     {
       "name": "menu.etc.tmb",
       "path": "texdb/menu/menu.etc.tmb",
-      "url": "http://newcityrp.co.in/files/texdb/menu/menu.etc.tmb",
+      "url": "https://newcityrp.co.in/files/texdb/menu/menu.etc.tmb",
       "size": 992,
       "gpu": "etc"
     },
     {
       "name": "menu.etc.toc",
       "path": "texdb/menu/menu.etc.toc",
-      "url": "http://newcityrp.co.in/files/texdb/menu/menu.etc.toc",
+      "url": "https://newcityrp.co.in/files/texdb/menu/menu.etc.toc",
       "size": 176,
       "gpu": "etc"
     },
     {
       "name": "menu.pvr.dat",
       "path": "texdb/menu/menu.pvr.dat",
-      "url": "http://newcityrp.co.in/files/texdb/menu/menu.pvr.dat",
+      "url": "https://newcityrp.co.in/files/texdb/menu/menu.pvr.dat",
       "size": 6472908,
       "gpu": "pvr"
     },
     {
       "name": "menu.pvr.tmb",
       "path": "texdb/menu/menu.pvr.tmb",
-      "url": "http://newcityrp.co.in/files/texdb/menu/menu.pvr.tmb",
+      "url": "https://newcityrp.co.in/files/texdb/menu/menu.pvr.tmb",
       "size": 992,
       "gpu": "pvr"
     },
     {
       "name": "menu.pvr.toc",
       "path": "texdb/menu/menu.pvr.toc",
-      "url": "http://newcityrp.co.in/files/texdb/menu/menu.pvr.toc",
+      "url": "https://newcityrp.co.in/files/texdb/menu/menu.pvr.toc",
       "size": 176,
       "gpu": "pvr"
     },
     {
       "name": "menu.txt",
       "path": "texdb/menu/menu.txt",
-      "url": "http://newcityrp.co.in/files/texdb/menu/menu.txt",
+      "url": "https://newcityrp.co.in/files/texdb/menu/menu.txt",
       "size": 3147,
       "gpu": "all"
     },
     {
       "name": "menu.unc.tmb",
       "path": "texdb/menu/menu.unc.tmb",
-      "url": "http://newcityrp.co.in/files/texdb/menu/menu.unc.tmb",
+      "url": "https://newcityrp.co.in/files/texdb/menu/menu.unc.tmb",
       "size": 992,
       "gpu": "all"
     },
     {
       "name": "mobile.dxt.dat",
       "path": "texdb/mobile/mobile.dxt.dat",
-      "url": "http://newcityrp.co.in/files/texdb/mobile/mobile.dxt.dat",
+      "url": "https://newcityrp.co.in/files/texdb/mobile/mobile.dxt.dat",
       "size": 7267946,
       "gpu": "dxt"
     },
     {
       "name": "mobile.dxt.tmb",
       "path": "texdb/mobile/mobile.dxt.tmb",
-      "url": "http://newcityrp.co.in/files/texdb/mobile/mobile.dxt.tmb",
+      "url": "https://newcityrp.co.in/files/texdb/mobile/mobile.dxt.tmb",
       "size": 3940,
       "gpu": "dxt"
     },
     {
       "name": "mobile.dxt.toc",
       "path": "texdb/mobile/mobile.dxt.toc",
-      "url": "http://newcityrp.co.in/files/texdb/mobile/mobile.dxt.toc",
+      "url": "https://newcityrp.co.in/files/texdb/mobile/mobile.dxt.toc",
       "size": 792,
       "gpu": "dxt"
     },
     {
       "name": "mobile.etc.dat",
       "path": "texdb/mobile/mobile.etc.dat",
-      "url": "http://newcityrp.co.in/files/texdb/mobile/mobile.etc.dat",
+      "url": "https://newcityrp.co.in/files/texdb/mobile/mobile.etc.dat",
       "size": 8712314,
       "gpu": "etc"
     },
     {
       "name": "mobile.etc.tmb",
       "path": "texdb/mobile/mobile.etc.tmb",
-      "url": "http://newcityrp.co.in/files/texdb/mobile/mobile.etc.tmb",
+      "url": "https://newcityrp.co.in/files/texdb/mobile/mobile.etc.tmb",
       "size": 3940,
       "gpu": "etc"
     },
     {
       "name": "mobile.etc.toc",
       "path": "texdb/mobile/mobile.etc.toc",
-      "url": "http://newcityrp.co.in/files/texdb/mobile/mobile.etc.toc",
+      "url": "https://newcityrp.co.in/files/texdb/mobile/mobile.etc.toc",
       "size": 792,
       "gpu": "etc"
     },
     {
       "name": "mobile.pvr.dat",
       "path": "texdb/mobile/mobile.pvr.dat",
-      "url": "http://newcityrp.co.in/files/texdb/mobile/mobile.pvr.dat",
+      "url": "https://newcityrp.co.in/files/texdb/mobile/mobile.pvr.dat",
       "size": 8712314,
       "gpu": "pvr"
     },
     {
       "name": "mobile.pvr.tmb",
       "path": "texdb/mobile/mobile.pvr.tmb",
-      "url": "http://newcityrp.co.in/files/texdb/mobile/mobile.pvr.tmb",
+      "url": "https://newcityrp.co.in/files/texdb/mobile/mobile.pvr.tmb",
       "size": 3940,
       "gpu": "pvr"
     },
     {
       "name": "mobile.pvr.toc",
       "path": "texdb/mobile/mobile.pvr.toc",
-      "url": "http://newcityrp.co.in/files/texdb/mobile/mobile.pvr.toc",
+      "url": "https://newcityrp.co.in/files/texdb/mobile/mobile.pvr.toc",
       "size": 792,
       "gpu": "pvr"
     },
     {
       "name": "mobile.txt",
       "path": "texdb/mobile/mobile.txt",
-      "url": "http://newcityrp.co.in/files/texdb/mobile/mobile.txt",
+      "url": "https://newcityrp.co.in/files/texdb/mobile/mobile.txt",
       "size": 14502,
       "gpu": "all"
     },
     {
       "name": "mobile.unc.tmb",
       "path": "texdb/mobile/mobile.unc.tmb",
-      "url": "http://newcityrp.co.in/files/texdb/mobile/mobile.unc.tmb",
+      "url": "https://newcityrp.co.in/files/texdb/mobile/mobile.unc.tmb",
       "size": 3940,
       "gpu": "all"
     },
     {
       "name": "player.pvr.dat",
       "path": "texdb/player/player.pvr.dat",
-      "url": "http://newcityrp.co.in/files/texdb/player/player.pvr.dat",
+      "url": "https://newcityrp.co.in/files/texdb/player/player.pvr.dat",
       "size": 6569414,
       "gpu": "pvr"
     },
     {
       "name": "player.pvr.tmb",
       "path": "texdb/player/player.pvr.tmb",
-      "url": "http://newcityrp.co.in/files/texdb/player/player.pvr.tmb",
+      "url": "https://newcityrp.co.in/files/texdb/player/player.pvr.tmb",
       "size": 6940,
       "gpu": "pvr"
     },
     {
       "name": "player.pvr.toc",
       "path": "texdb/player/player.pvr.toc",
-      "url": "http://newcityrp.co.in/files/texdb/player/player.pvr.toc",
+      "url": "https://newcityrp.co.in/files/texdb/player/player.pvr.toc",
       "size": 1580,
       "gpu": "pvr"
     },
     {
       "name": "player.txt",
       "path": "texdb/player/player.txt",
-      "url": "http://newcityrp.co.in/files/texdb/player/player.txt",
+      "url": "https://newcityrp.co.in/files/texdb/player/player.txt",
       "size": 27810,
       "gpu": "all"
     },
     {
       "name": "playerhi.pvr.dat",
       "path": "texdb/playerhi/playerhi.pvr.dat",
-      "url": "http://newcityrp.co.in/files/texdb/playerhi/playerhi.pvr.dat",
+      "url": "https://newcityrp.co.in/files/texdb/playerhi/playerhi.pvr.dat",
       "size": 27658902,
       "gpu": "pvr"
     },
     {
       "name": "playerhi.pvr.tmb",
       "path": "texdb/playerhi/playerhi.pvr.tmb",
-      "url": "http://newcityrp.co.in/files/texdb/playerhi/playerhi.pvr.tmb",
+      "url": "https://newcityrp.co.in/files/texdb/playerhi/playerhi.pvr.tmb",
       "size": 6940,
       "gpu": "pvr"
     },
     {
       "name": "playerhi.pvr.toc",
       "path": "texdb/playerhi/playerhi.pvr.toc",
-      "url": "http://newcityrp.co.in/files/texdb/playerhi/playerhi.pvr.toc",
+      "url": "https://newcityrp.co.in/files/texdb/playerhi/playerhi.pvr.toc",
       "size": 1580,
       "gpu": "pvr"
     },
     {
       "name": "playerhi.txt",
       "path": "texdb/playerhi/playerhi.txt",
-      "url": "http://newcityrp.co.in/files/texdb/playerhi/playerhi.txt",
+      "url": "https://newcityrp.co.in/files/texdb/playerhi/playerhi.txt",
       "size": 28087,
       "gpu": "all"
     },
     {
       "name": "samp.dxt.dat",
       "path": "texdb/samp/samp.dxt.dat",
-      "url": "http://newcityrp.co.in/files/texdb/samp/samp.dxt.dat",
+      "url": "https://newcityrp.co.in/files/texdb/samp/samp.dxt.dat",
       "size": 22144848,
       "gpu": "dxt"
     },
     {
       "name": "samp.dxt.tmb",
       "path": "texdb/samp/samp.dxt.tmb",
-      "url": "http://newcityrp.co.in/files/texdb/samp/samp.dxt.tmb",
+      "url": "https://newcityrp.co.in/files/texdb/samp/samp.dxt.tmb",
       "size": 21376,
       "gpu": "dxt"
     },
     {
       "name": "samp.dxt.toc",
       "path": "texdb/samp/samp.dxt.toc",
-      "url": "http://newcityrp.co.in/files/texdb/samp/samp.dxt.toc",
+      "url": "https://newcityrp.co.in/files/texdb/samp/samp.dxt.toc",
       "size": 6176,
       "gpu": "dxt"
     },
     {
       "name": "samp.etc.dat",
       "path": "texdb/samp/samp.etc.dat",
-      "url": "http://newcityrp.co.in/files/texdb/samp/samp.etc.dat",
+      "url": "https://newcityrp.co.in/files/texdb/samp/samp.etc.dat",
       "size": 33279656,
       "gpu": "etc"
     },
     {
       "name": "samp.etc.tmb",
       "path": "texdb/samp/samp.etc.tmb",
-      "url": "http://newcityrp.co.in/files/texdb/samp/samp.etc.tmb",
+      "url": "https://newcityrp.co.in/files/texdb/samp/samp.etc.tmb",
       "size": 21376,
       "gpu": "etc"
     },
     {
       "name": "samp.etc.toc",
       "path": "texdb/samp/samp.etc.toc",
-      "url": "http://newcityrp.co.in/files/texdb/samp/samp.etc.toc",
+      "url": "https://newcityrp.co.in/files/texdb/samp/samp.etc.toc",
       "size": 6176,
       "gpu": "etc"
     },
     {
       "name": "samp.pvr.dat",
       "path": "texdb/samp/samp.pvr.dat",
-      "url": "http://newcityrp.co.in/files/texdb/samp/samp.pvr.dat",
+      "url": "https://newcityrp.co.in/files/texdb/samp/samp.pvr.dat",
       "size": 13894248,
       "gpu": "pvr"
     },
     {
       "name": "samp.pvr.tmb",
       "path": "texdb/samp/samp.pvr.tmb",
-      "url": "http://newcityrp.co.in/files/texdb/samp/samp.pvr.tmb",
+      "url": "https://newcityrp.co.in/files/texdb/samp/samp.pvr.tmb",
       "size": 21376,
       "gpu": "pvr"
     },
     {
       "name": "samp.pvr.toc",
       "path": "texdb/samp/samp.pvr.toc",
-      "url": "http://newcityrp.co.in/files/texdb/samp/samp.pvr.toc",
+      "url": "https://newcityrp.co.in/files/texdb/samp/samp.pvr.toc",
       "size": 6176,
       "gpu": "pvr"
     },
     {
       "name": "samp.txt",
       "path": "texdb/samp/samp.txt",
-      "url": "http://newcityrp.co.in/files/texdb/samp/samp.txt",
+      "url": "https://newcityrp.co.in/files/texdb/samp/samp.txt",
       "size": 89582,
       "gpu": "all"
     },
     {
       "name": "samp.unc.dat",
       "path": "texdb/samp/samp.unc.dat",
-      "url": "http://newcityrp.co.in/files/texdb/samp/samp.unc.dat",
+      "url": "https://newcityrp.co.in/files/texdb/samp/samp.unc.dat",
       "size": 33150952,
       "gpu": "all"
     },
     {
       "name": "samp.unc.tmb",
       "path": "texdb/samp/samp.unc.tmb",
-      "url": "http://newcityrp.co.in/files/texdb/samp/samp.unc.tmb",
+      "url": "https://newcityrp.co.in/files/texdb/samp/samp.unc.tmb",
       "size": 22528,
       "gpu": "all"
     },
     {
       "name": "samp.unc.toc",
       "path": "texdb/samp/samp.unc.toc",
-      "url": "http://newcityrp.co.in/files/texdb/samp/samp.unc.toc",
+      "url": "https://newcityrp.co.in/files/texdb/samp/samp.unc.toc",
       "size": 6156,
       "gpu": "all"
     },
     {
       "name": "txd.360.dat",
       "path": "texdb/txd/txd.360.dat",
-      "url": "http://newcityrp.co.in/files/texdb/txd/txd.360.dat",
+      "url": "https://newcityrp.co.in/files/texdb/txd/txd.360.dat",
       "size": 7625578,
       "gpu": "all"
     },
     {
       "name": "txd.360.tmb",
       "path": "texdb/txd/txd.360.tmb",
-      "url": "http://newcityrp.co.in/files/texdb/txd/txd.360.tmb",
+      "url": "https://newcityrp.co.in/files/texdb/txd/txd.360.tmb",
       "size": 31028,
       "gpu": "all"
     },
     {
       "name": "txd.360.toc",
       "path": "texdb/txd/txd.360.toc",
-      "url": "http://newcityrp.co.in/files/texdb/txd/txd.360.toc",
+      "url": "https://newcityrp.co.in/files/texdb/txd/txd.360.toc",
       "size": 2376,
       "gpu": "all"
     },
     {
       "name": "txd.dxt.dat",
       "path": "texdb/txd/txd.dxt.dat",
-      "url": "http://newcityrp.co.in/files/texdb/txd/txd.dxt.dat",
+      "url": "https://newcityrp.co.in/files/texdb/txd/txd.dxt.dat",
       "size": 7625578,
       "gpu": "dxt"
     },
     {
       "name": "txd.dxt.tmb",
       "path": "texdb/txd/txd.dxt.tmb",
-      "url": "http://newcityrp.co.in/files/texdb/txd/txd.dxt.tmb",
+      "url": "https://newcityrp.co.in/files/texdb/txd/txd.dxt.tmb",
       "size": 31028,
       "gpu": "dxt"
     },
     {
       "name": "txd.dxt.toc",
       "path": "texdb/txd/txd.dxt.toc",
-      "url": "http://newcityrp.co.in/files/texdb/txd/txd.dxt.toc",
+      "url": "https://newcityrp.co.in/files/texdb/txd/txd.dxt.toc",
       "size": 2376,
       "gpu": "dxt"
     },
     {
       "name": "txd.etc.dat",
       "path": "texdb/txd/txd.etc.dat",
-      "url": "http://newcityrp.co.in/files/texdb/txd/txd.etc.dat",
+      "url": "https://newcityrp.co.in/files/texdb/txd/txd.etc.dat",
       "size": 9422056,
       "gpu": "etc"
     },
     {
       "name": "txd.etc.tmb",
       "path": "texdb/txd/txd.etc.tmb",
-      "url": "http://newcityrp.co.in/files/texdb/txd/txd.etc.tmb",
+      "url": "https://newcityrp.co.in/files/texdb/txd/txd.etc.tmb",
       "size": 49460,
       "gpu": "etc"
     },
     {
       "name": "txd.etc.toc",
       "path": "texdb/txd/txd.etc.toc",
-      "url": "http://newcityrp.co.in/files/texdb/txd/txd.etc.toc",
+      "url": "https://newcityrp.co.in/files/texdb/txd/txd.etc.toc",
       "size": 2376,
       "gpu": "etc"
     },
     {
       "name": "txd.pvr.dat",
       "path": "texdb/txd/txd.pvr.dat",
-      "url": "http://newcityrp.co.in/files/texdb/txd/txd.pvr.dat",
+      "url": "https://newcityrp.co.in/files/texdb/txd/txd.pvr.dat",
       "size": 7716880,
       "gpu": "pvr"
     },
     {
       "name": "txd.pvr.tmb",
       "path": "texdb/txd/txd.pvr.tmb",
-      "url": "http://newcityrp.co.in/files/texdb/txd/txd.pvr.tmb",
+      "url": "https://newcityrp.co.in/files/texdb/txd/txd.pvr.tmb",
       "size": 25204,
       "gpu": "pvr"
     },
     {
       "name": "txd.pvr.toc",
       "path": "texdb/txd/txd.pvr.toc",
-      "url": "http://newcityrp.co.in/files/texdb/txd/txd.pvr.toc",
+      "url": "https://newcityrp.co.in/files/texdb/txd/txd.pvr.toc",
       "size": 2376,
       "gpu": "pvr"
     },
     {
       "name": "txd.txt",
       "path": "texdb/txd/txd.txt",
-      "url": "http://newcityrp.co.in/files/texdb/txd/txd.txt",
+      "url": "https://newcityrp.co.in/files/texdb/txd/txd.txt",
       "size": 43193,
       "gpu": "all"
     },
     {
       "name": "txd.unc.tmb",
       "path": "texdb/txd/txd.unc.tmb",
-      "url": "http://newcityrp.co.in/files/texdb/txd/txd.unc.tmb",
+      "url": "https://newcityrp.co.in/files/texdb/txd/txd.unc.tmb",
       "size": 59636,
       "gpu": "all"
     },
     {
       "name": "american.gxt",
       "path": "Text/american.gxt",
-      "url": "http://newcityrp.co.in/files/Text/american.gxt",
+      "url": "https://newcityrp.co.in/files/Text/american.gxt",
       "size": 1339424,
       "gpu": "all"
     },
     {
       "name": "french.gxt",
       "path": "Text/french.gxt",
-      "url": "http://newcityrp.co.in/files/Text/french.gxt",
+      "url": "https://newcityrp.co.in/files/Text/french.gxt",
       "size": 1459044,
       "gpu": "all"
     },
     {
       "name": "german.gxt",
       "path": "Text/german.gxt",
-      "url": "http://newcityrp.co.in/files/Text/german.gxt",
+      "url": "https://newcityrp.co.in/files/Text/german.gxt",
       "size": 1497182,
       "gpu": "all"
     },
     {
       "name": "italian.gxt",
       "path": "Text/italian.gxt",
-      "url": "http://newcityrp.co.in/files/Text/italian.gxt",
+      "url": "https://newcityrp.co.in/files/Text/italian.gxt",
       "size": 1371048,
       "gpu": "all"
     },
     {
       "name": "japanese.gxt",
       "path": "Text/japanese.gxt",
-      "url": "http://newcityrp.co.in/files/Text/japanese.gxt",
+      "url": "https://newcityrp.co.in/files/Text/japanese.gxt",
       "size": 643202,
       "gpu": "all"
     },
     {
       "name": "russian.gxt",
       "path": "Text/russian.gxt",
-      "url": "http://newcityrp.co.in/files/Text/russian.gxt",
+      "url": "https://newcityrp.co.in/files/Text/russian.gxt",
       "size": 1421038,
       "gpu": "all"
     },
     {
       "name": "spanish.gxt",
       "path": "Text/spanish.gxt",
-      "url": "http://newcityrp.co.in/files/Text/spanish.gxt",
+      "url": "https://newcityrp.co.in/files/Text/spanish.gxt",
       "size": 1386744,
       "gpu": "all"
     },
     {
       "name": "JapaneseFont.met",
       "path": "Textures/fonts/JapaneseFont.met",
-      "url": "http://newcityrp.co.in/files/Textures/fonts/JapaneseFont.met",
+      "url": "https://newcityrp.co.in/files/Textures/fonts/JapaneseFont.met",
       "size": 45171,
       "gpu": "all"
     },
     {
       "name": "RussianFont.met",
       "path": "Textures/fonts/RussianFont.met",
-      "url": "http://newcityrp.co.in/files/Textures/fonts/RussianFont.met",
+      "url": "https://newcityrp.co.in/files/Textures/fonts/RussianFont.met",
       "size": 4279,
       "gpu": "all"
     },
     {
       "name": "RussianFont.png",
       "path": "Textures/fonts/RussianFont.png",
-      "url": "http://newcityrp.co.in/files/Textures/fonts/RussianFont.png",
+      "url": "https://newcityrp.co.in/files/Textures/fonts/RussianFont.png",
       "size": 38743,
       "gpu": "all"
     }
