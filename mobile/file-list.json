@@ -2035,21 +2035,21 @@
       "path": "texdb/menu/menu.pvr.dat",
       "url": "https://newcityrp.co.in/files/texdb/menu/menu.pvr.dat",
       "size": 6472908,
-      "gpu": "pvr"
+      "gpu": "all"
     },
     {
       "name": "menu.pvr.tmb",
       "path": "texdb/menu/menu.pvr.tmb",
       "url": "https://newcityrp.co.in/files/texdb/menu/menu.pvr.tmb",
       "size": 992,
-      "gpu": "pvr"
+      "gpu": "all"
     },
     {
       "name": "menu.pvr.toc",
       "path": "texdb/menu/menu.pvr.toc",
       "url": "https://newcityrp.co.in/files/texdb/menu/menu.pvr.toc",
       "size": 176,
-      "gpu": "pvr"
+      "gpu": "all"
     },
     {
       "name": "menu.txt",
