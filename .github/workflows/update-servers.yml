@@ -1,0 +1,36 @@
+name: Update Server List
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"   # weekly (Sunday 00:00 UTC)
+  workflow_dispatch:       # manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm install samp-query
+
+      - name: Run update script
+        run: node update-servers.js
+
+      - name: Commit & Push changes
+        run: |
+          if [[ `git status --porcelain` ]]; then
+            git config --global user.name "GitHub Action"
+            git config --global user.email "actions@github.com"
+            git add mobile/servers.json
+            git commit -m "Auto-update servers.json"
+            git push
+          else
+            echo "No changes to commit."
+          fi
