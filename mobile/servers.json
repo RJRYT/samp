@@ -1,85 +1,64 @@
 {
-  "query":
-  [
+  "query": [
     {
-      "name":"New City RolePlay",
-      "ip":"172.232.124.96",
-      "port":5236,
-      "online":2,
-      "maxplayers":100,
-      "password":false
+      "name": "NewCityRP [V7] - newcityrp.co.in",
+      "ip": "172.232.124.96",
+      "port": 5236,
+      "online": 2,
+      "maxplayers": 100,
+      "password": false,
+      "lastChecked": "2025-08-26T13:19:43.045Z"
     },
     {
-      "name":"Arizona Role Play | Mesa",
-      "ip":"185.169.134.59",
-      "port":7777,
-      "online":2,
-      "maxplayers":100,
-      "password":false
+      "name": "Los Santos Roleplay Cops and Robbers [11.0.9]",
+      "ip": "37.187.77.206",
+      "port": 7777,
+      "online": 199,
+      "maxplayers": 200,
+      "password": true
     },
     {
-      "name":"Arizona Role Play | Tucson",
-      "ip":"185.169.134.4",
-      "port":7777,
-      "online":20,
-      "maxplayers":1000,
-      "password":false
+      "name": "Lawless Roleplay",
+      "ip": "217.182.36.95",
+      "port": 7777,
+      "online": 99,
+      "maxplayers": 500,
+      "password": false,
+      "lastChecked": "2025-08-26T13:20:04.029Z"
     },
     {
-      "name":"Arizona Role Play | Red-Rock",
-      "ip":"185.169.134.61",
-      "port":7777,
-      "online":25,
-      "maxplayers":500,
-      "password":false
+      "name": "UIF - United Islands Freeroam",
+      "ip": "play.uifserver.net",
+      "port": 7776,
+      "online": 182,
+      "maxplayers": 1000,
+      "password": false,
+      "lastChecked": "2025-08-26T13:20:04.404Z"
     },
     {
-      "name":"Los Santos Roleplay Cops and Robbers [11.0.9]",
-      "ip":"37.187.77.206",
-      "port":7777,
-      "online":199,
-      "maxplayers":200,
-      "password":true
+      "name": "Monser DM | Server 02",
+      "ip": "two.monser.ru",
+      "port": 7777,
+      "online": 199,
+      "maxplayers": 200,
+      "password": true
     },
     {
-      "name":"Lawless Roleplay",
-      "ip":"217.182.36.95",
-      "port":7777,
-      "online":199,
-      "maxplayers":200,
-      "password":true
+      "name": "Greek Roleplay Server (Season 2)",
+      "ip": "rpg.greeksamp.info",
+      "port": 7777,
+      "online": 0,
+      "maxplayers": 50,
+      "password": false,
+      "lastChecked": "2025-08-26T13:20:09.967Z"
     },
     {
-      "name":"UIF",
-      "ip":"play.uifserver.net",
-      "port":7776,
-      "online":199,
-      "maxplayers":200,
-      "password":true
-    },
-    {
-      "name":"Monser DM | Server 02",
-      "ip":"two.monser.ru",
-      "port":7777,
-      "online":199,
-      "maxplayers":200,
-      "password":true
-    },
-    {
-      "name":"Greek Roleplay Server (Season 2)",
-      "ip":"rpg.greeksamp.info",
-      "port":7777,
-      "online":199,
-      "maxplayers":200,
-      "password":true
-    },
-    {
-      "name":"GRAND COUNTRY-RP",
-      "ip":"204.10.193.119",
-      "port":7777,
-      "online":199,
-      "maxplayers":200,
-      "password":true
+      "name": "GRAND COUNTRY-RP",
+      "ip": "204.10.193.119",
+      "port": 7777,
+      "online": 199,
+      "maxplayers": 200,
+      "password": true
     }
   ]
 }

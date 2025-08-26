@@ -15,20 +15,28 @@ try {
 
 async function queryServer(server) {
   return new Promise((resolve) => {
-    query({ host: server.ip, port: server.port }, (error, response) => {
-      if (error) {
-        console.warn(`⚠️ Query failed for ${server.ip}:${server.port} → keeping old values`);
-        resolve({ ...server }); // fallback
-      } else {
-        resolve({
-          ...server,
-          online: response.online,
-          maxplayers: response.maxplayers,
-          password: response.password,
-          lastChecked: new Date().toISOString(),
-        });
+    query(
+      { host: server.ip, port: server.port, timeout: 5000 },
+      (error, response) => {
+        if (error) {
+          console.warn(
+            `⚠️ Query failed for server ${server.name} → keeping old values`
+          );
+          resolve({ ...server }); // fallback
+        } else {
+          console.log(`✅ Query successful for ${server.name}`);
+          resolve({
+            name: response.hostname.trim(),
+            ip: server.ip,
+            port: server.port,
+            online: response.online,
+            maxplayers: response.maxplayers,
+            password: response.passworded,
+            lastChecked: new Date().toISOString(),
+          });
+        }
       }
-    });
+    );
   });
 }
 
