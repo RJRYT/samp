@@ -26,9 +26,8 @@ async function queryServer(server) {
         } else {
           console.log(`✅ Query successful for ${server.name}`);
           resolve({
+            ...server,
             name: response.hostname.trim(),
-            ip: server.ip,
-            port: server.port,
             online: response.online,
             maxplayers: response.maxplayers,
             password: response.passworded,
