@@ -7,6 +7,7 @@
       "online": 1,
       "maxplayers": 100,
       "password": false,
+      "logo": "https://rjryt.github.io/samp/assets/images/rjryt-new.jpg",
       "lastChecked": "2025-08-26T13:37:35.703Z"
     },
     {
@@ -15,7 +16,8 @@
       "port": 7777,
       "online": 199,
       "maxplayers": 200,
-      "password": true
+      "password": true,
+      "logo": "https://rjryt.github.io/samp/assets/images/rjryt-new.jpg"
     },
     {
       "name": "Lawless Roleplay",
@@ -24,6 +26,7 @@
       "online": 99,
       "maxplayers": 500,
       "password": false,
+      "logo": "https://rjryt.github.io/samp/assets/images/rjryt-new.jpg",
       "lastChecked": "2025-08-26T13:20:04.029Z"
     },
     {
@@ -33,6 +36,7 @@
       "online": 187,
       "maxplayers": 1000,
       "password": false,
+      "logo": "https://rjryt.github.io/samp/assets/images/rjryt-new.jpg",
       "lastChecked": "2025-08-26T13:37:46.271Z"
     },
     {
@@ -41,7 +45,8 @@
       "port": 7777,
       "online": 199,
       "maxplayers": 200,
-      "password": true
+      "password": true,
+      "logo": "https://rjryt.github.io/samp/assets/images/rjryt-new.jpg"
     },
     {
       "name": "Greek Roleplay Server (Season 2)",
@@ -50,6 +55,7 @@
       "online": 0,
       "maxplayers": 50,
       "password": false,
+      "logo": "https://rjryt.github.io/samp/assets/images/rjryt-new.jpg",
       "lastChecked": "2025-08-26T13:37:51.584Z"
     },
     {
@@ -58,7 +64,8 @@
       "port": 7777,
       "online": 199,
       "maxplayers": 200,
-      "password": true
+      "password": true,
+      "logo": "https://rjryt.github.io/samp/assets/images/rjryt-new.jpg"
     }
   ]
 }
