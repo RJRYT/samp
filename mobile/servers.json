@@ -7,7 +7,7 @@
       "online": 1,
       "maxplayers": 100,
       "password": false,
-      "logo": "https://rjryt.github.io/samp/assets/images/ncrp.jpg",
+      "logo": "https://rjryt.github.io/samp/assets/images/ncrp.png",
       "lastChecked": "2025-08-26T13:37:35.703Z"
     },
     {
@@ -17,7 +17,7 @@
       "online": 199,
       "maxplayers": 200,
       "password": true,
-      "logo": "https://rjryt.github.io/samp/assets/images/lsrcr.jpg"
+      "logo": "https://rjryt.github.io/samp/assets/images/lsrcr.png"
     },
     {
       "name": "Lawless Roleplay",
@@ -26,7 +26,7 @@
       "online": 99,
       "maxplayers": 500,
       "password": false,
-      "logo": "https://rjryt.github.io/samp/assets/images/lawless.jpg",
+      "logo": "https://rjryt.github.io/samp/assets/images/lawless.png",
       "lastChecked": "2025-08-26T13:20:04.029Z"
     },
     {
@@ -36,7 +36,7 @@
       "online": 187,
       "maxplayers": 1000,
       "password": false,
-      "logo": "https://rjryt.github.io/samp/assets/images/uif.jpg",
+      "logo": "https://rjryt.github.io/samp/assets/images/uif.png",
       "lastChecked": "2025-08-26T13:37:46.271Z"
     },
     {
@@ -46,7 +46,7 @@
       "online": 199,
       "maxplayers": 200,
       "password": true,
-      "logo": "https://rjryt.github.io/samp/assets/images/samp.jpg"
+      "logo": "https://rjryt.github.io/samp/assets/images/samp.png"
     }
   ]
 }
