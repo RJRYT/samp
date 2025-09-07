@@ -4,11 +4,11 @@
       "name": "NewCityRP [V7] - newcityrp.co.in",
       "ip": "172.232.124.96",
       "port": 5236,
-      "online": 0,
+      "online": 2,
       "maxplayers": 100,
       "password": false,
       "logo": "https://rjryt.github.io/samp/assets/images/ncrp.png",
-      "lastChecked": "2025-08-31T01:54:41.359Z"
+      "lastChecked": "2025-09-07T01:52:36.205Z"
     },
     {
       "name": "Los Santos Roleplay Cops and Robbers [11.0.9]",
@@ -20,24 +20,24 @@
       "logo": "https://rjryt.github.io/samp/assets/images/lsrcr.png"
     },
     {
-      "name": "Lawless Roleplay",
+      "name": "Lawless Roleplay [Double EXP!]",
       "ip": "217.182.36.95",
       "port": 7777,
-      "online": 33,
+      "online": 22,
       "maxplayers": 500,
       "password": false,
       "logo": "https://rjryt.github.io/samp/assets/images/lawless.png",
-      "lastChecked": "2025-08-31T01:54:46.905Z"
+      "lastChecked": "2025-09-07T01:52:41.663Z"
     },
     {
       "name": "UIF - United Islands Freeroam",
       "ip": "play.uifserver.net",
       "port": 7776,
-      "online": 134,
+      "online": 148,
       "maxplayers": 1000,
       "password": false,
       "logo": "https://rjryt.github.io/samp/assets/images/uif.png",
-      "lastChecked": "2025-08-31T01:54:47.190Z"
+      "lastChecked": "2025-09-07T01:52:41.935Z"
     },
     {
       "name": "Monser DM | Server 02",
