@@ -8,7 +8,7 @@
       "maxplayers": 100,
       "password": false,
       "logo": "https://rjryt.github.io/samp/assets/images/ncrp.png",
-      "lastChecked": "2025-09-14T01:52:34.592Z"
+      "lastChecked": "2025-09-21T01:55:00.402Z"
     },
     {
       "name": "Los Santos Roleplay Cops and Robbers [11.0.9]",
@@ -23,21 +23,21 @@
       "name": "Lawless Roleplay",
       "ip": "217.182.36.95",
       "port": 7777,
-      "online": 26,
+      "online": 27,
       "maxplayers": 500,
       "password": false,
       "logo": "https://rjryt.github.io/samp/assets/images/lawless.png",
-      "lastChecked": "2025-09-14T01:52:40.063Z"
+      "lastChecked": "2025-09-21T01:55:05.852Z"
     },
     {
       "name": "UIF - United Islands Freeroam",
       "ip": "play.uifserver.net",
       "port": 7776,
-      "online": 119,
+      "online": 115,
       "maxplayers": 1000,
       "password": false,
       "logo": "https://rjryt.github.io/samp/assets/images/uif.png",
-      "lastChecked": "2025-09-14T01:52:40.257Z"
+      "lastChecked": "2025-09-21T01:55:06.066Z"
     },
     {
       "name": "Monser DM | Server 02",
