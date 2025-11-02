@@ -8,7 +8,7 @@
       "maxplayers": 100,
       "password": false,
       "logo": "https://rjryt.github.io/samp/assets/images/ncrp.png",
-      "lastChecked": "2025-10-26T01:56:36.342Z"
+      "lastChecked": "2025-11-02T01:59:12.447Z"
     },
     {
       "name": "Los Santos Roleplay Cops and Robbers [11.0.9]",
@@ -23,31 +23,31 @@
       "name": "Lawless Roleplay",
       "ip": "217.182.36.95",
       "port": 7777,
-      "online": 27,
+      "online": 29,
       "maxplayers": 500,
       "password": false,
       "logo": "https://rjryt.github.io/samp/assets/images/lawless.png",
-      "lastChecked": "2025-10-12T01:51:14.873Z"
+      "lastChecked": "2025-11-02T01:59:17.899Z"
     },
     {
       "name": "UIF - United Islands Freeroam",
       "ip": "play.uifserver.net",
       "port": 7776,
-      "online": 131,
+      "online": 121,
       "maxplayers": 1000,
       "password": false,
       "logo": "https://rjryt.github.io/samp/assets/images/uif.png",
-      "lastChecked": "2025-10-26T01:56:46.897Z"
+      "lastChecked": "2025-11-02T01:59:18.097Z"
     },
     {
-      "name": "Monser DM | Server 02",
+      "name": "Monser DM | 02 | Halloween Event",
       "ip": "two.monser.ru",
       "port": 7777,
-      "online": 3,
+      "online": 0,
       "maxplayers": 360,
       "password": false,
       "logo": "https://rjryt.github.io/samp/assets/images/samp.png",
-      "lastChecked": "2025-10-26T01:56:47.496Z"
+      "lastChecked": "2025-11-02T01:59:18.637Z"
     }
   ]
 }
