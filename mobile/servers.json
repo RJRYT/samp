@@ -23,21 +23,21 @@
       "name": "Lawless Roleplay",
       "ip": "217.182.36.95",
       "port": 7777,
-      "online": 39,
+      "online": 16,
       "maxplayers": 500,
       "password": false,
       "logo": "https://rjryt.github.io/samp/assets/images/lawless.png",
-      "lastChecked": "2025-11-09T01:58:21.814Z"
+      "lastChecked": "2025-11-23T02:09:18.362Z"
     },
     {
       "name": "UIF - United Islands Freeroam",
       "ip": "play.uifserver.net",
       "port": 7776,
-      "online": 121,
+      "online": 120,
       "maxplayers": 1000,
       "password": false,
       "logo": "https://rjryt.github.io/samp/assets/images/uif.png",
-      "lastChecked": "2025-11-16T02:01:45.202Z"
+      "lastChecked": "2025-11-23T02:09:18.699Z"
     },
     {
       "name": "Monser DM | 02 | ΐκφθ� X2",
